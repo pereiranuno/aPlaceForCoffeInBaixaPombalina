@@ -1,0 +1,608 @@
+id,name,synonyms
+7320,Sports Center,['Sports Centre']
+7374,Stadium,"['Arena', 'Sports Stadium']"
+7315,Restaurant,"['Eating House', 'Eating Place', 'Dining', 'Eatery']"
+9376,Café/Pub,[]
+9663,Health Care Service,[]
+7321,Hospital,"['Clinic', 'Polyclinic', 'Hospital/Polyclinic']"
+9373,Doctor,"[""Doctor's Office"", 'Doc', 'Medical Office', 'MD', 'Medical Practitioner']"
+9361,Shop,['Store']
+9364,Marijuana Dispensary,[]
+7332,Market,[]
+9932,Public Amenity,[]
+7301,Road Traffic Control Center,"['Traffic Service Centre', 'Traffic Service Center']"
+7324,Post Office,"['Post', 'Postal Service']"
+7377,College/University,"['Tertiary Education', 'University', 'College', 'Uni']"
+7369,Open Parking Area,"['Parking Lot', 'Open Parking', 'Outdoor Lot', 'Outdoor Parking']"
+9937,Club & Association,[]
+7360,Campground,"['Campsite', 'Camping Area', 'Camp Site', 'Camping', 'Camping Ground', 'Camp Ground', 'Camping Site']"
+7304,Vacation Rental,['Holiday Rental']
+9902,Amusement Park,[]
+7303,Residential Accommodations,['Residential Accommodation']
+7335,Agricultural Business,['Agriculture Business']
+7383,Airport,['Aerodrome']
+9352,Company,"['Organisation', 'Organization', 'Enterprise', 'Employment', 'Firm', 'Institution', 'Corporation', 'Establishment']"
+9379,Nightlife,[]
+7310,Repair Shop,"['Garage', 'Repair Facility', 'Workshop', 'Service Centre', 'Mechanic Shop', 'Vehicle Repair', 'Car Repair', 'Mechanic', 'Service Department', 'Car Servicing', 'Car Mechanic', 'Servicing', 'MOT', 'Car Workshop']"
+7314,Hotel/Motel,[]
+7372,School,['Educational Institution']
+9910,Automotive Dealer,"['Dealer', 'Dealership', 'Vehicle Sales', 'Auto Dealer']"
+9927,"Zoo, Arboretum & Botanical Garden",[]
+7342,Movie Theater,"['Picture House', 'Movie Theatre', 'The Pictures', 'Big Screen', 'Film House', 'Movie Hall', 'Cinema', 'Movie House', 'Picture Theatre', 'The Movies', 'Cinema Hall', 'Movies', 'Silver Screen', 'Picture Theater']"
+7318,Theater,"['Play House', 'Playhouse', 'Theatre']"
+9362,Park & Recreation Area,['Park and Recreation Area']
+7339,Place of Worship,"['House of Worship', 'House of Prayer', 'House of God', 'Prayer Hall']"
+7376,Tourist Attraction,"['Place of Interest', 'Local Attraction', 'Sight Seeing Place', 'Important Tourist Attraction', 'Tourist Place']"
+7302,Trails,"['Trail System', 'Trail Network']"
+7380,Railroad Station,"['Railway Station', 'Train Station', 'Train Stop', 'Station', 'Rail Station']"
+9942,Public Transportation Stop,"['Public Transport Stop', 'Public Transit', 'Public Transport Terminus', 'Public Transport', 'Public Transit Stop', 'Public Transport Station']"
+9160,Exchange,[]
+7347,Marina,['Boat Basin']
+7359,Weigh Station,['Weigh Scales']
+9155,Car Wash,"['Carwash', 'Auto Wash']"
+9378,Leisure Center,"['Leisure Facilities', 'Leisure Centre']"
+7389,Access Gateway,[]
+8099,Geographic Feature,[]
+7380004,Urban Station,[]
+7302003,Adventure Vehicle Trail,['Off Road Track']
+9352003,Advertising Company,"['Marketing', 'Ad Agency', 'Advert Agency', 'Marketing Company', 'Advertising Agency']"
+7315081,Afghan Restaurant,"['Afghan Cuisine', 'Afghan Food']"
+7315002,African Restaurant,"['African Food', 'African Cuisine']"
+9361073,Agricultural Supplies,"['Farm Supplies', 'Farming Supplies']"
+9352012,Agricultural Technology,['Farming Technology']
+7383005,Airfield,['Aerodrome']
+9352034,Airline Company,['Airline']
+7389002,Airline Access,"['Terminal', 'Airport Terminal']"
+7315082,Algerian Restaurant,"['Algerian Cuisine', 'Algerian Food']"
+9663005,Ambulance Unit,[]
+7315003,American Restaurant,"['American Cuisine', 'American Food']"
+7318007,Amphitheater,['Amphitheatre']
+9902002,Amusement Arcade,"['Video Games', 'Video Arcade', 'Video Games Parlour']"
+9902003,Amusement Park,[]
+9902004,Amusement Place,[]
+9361048,Animal Services,[]
+9352045,Animal Shelter,"['Animal Rescue', 'Animal Sanctuary']"
+9361049,Antique/Art Shop,[]
+7304006,Apartment Rental,[]
+9927004,Aquatic Zoo,['Aquarium']
+7315083,Arabian Restaurant,"['Arabian Food', 'Arab Food', 'Arabian Cuisine', 'Arab Restaurant', 'Arab Cuisine']"
+9927002,Arboreta & Botanical Gardens,[]
+7376012,Arch,[]
+7315084,Argentinian Restaurant,"['Argentine Restaurant', 'Argentine Cuisine', 'Argentinian Cuisine', 'Argentine Food', 'Argentinian Food']"
+7315085,Armenian Restaurant,"['Armenian Food', 'Armenian Cuisine']"
+7372012,Art School,[]
+7339007,Ashram,[]
+7315062,Asian Restaurant,"['Asian Cuisine', 'Asian Food']"
+7374002,Athletics Track,"['Running Track', 'Athletic Stadium', 'Athletics Ground']"
+9910009,ATV Dealer,"['All-Terrain Vehicle Sales', 'All-Terrain Vehicle Dealer', 'ATV Sales']"
+7315086,Australian Restaurant,"['Australian Cuisine', 'Australian Food']"
+7315004,Austrian Restaurant,"['Austrian Cuisine', 'Austrian Food']"
+9352013,Automobile Company,"['Motor Car Company', 'Car Distribution Center', 'Automobile Factory', 'Car Distribution Centre', 'Car Company']"
+9352041,Automobile Manufacturing,"['Car Manufacturer', 'Automotive Manufacturer', 'Motor Car Manufacturer', 'Automobile Factory', 'Car Factory', 'Automobile Manufacturer']"
+9361058,Bags & Leatherwear,[]
+7315146,Banquet Rooms,"['Banqueting Room', 'Function Hall', 'Banquet Restaurant', 'Function Room', 'Banquet Hall']"
+9379004,Bar,[]
+7315005,Barbecue Restaurant,"['Barbecue Food', 'BBQ', 'BBQ Restaurant', 'Barbecue Cuisine', 'Barbecue']"
+7374009,Baseball Park,"['Ballpark', 'Baseball Field', 'Baseball Stadium', 'Baseball', 'Ball Park']"
+7374012,Basketball Arena,"['Basketball Stadium', 'Basketball Court']"
+7315087,Basque Restaurant,"['Basque Cuisine', 'Basque Food']"
+9362002,Battlefield,['Battleground']
+8099016,Bay,[]
+9937002,Beach Club,[]
+9361067,Beauty Salon,"['Beauty Centre', 'Beauty Center', 'Beauty Parlour', 'Beauty Shop', 'Beautician']"
+9361050,Beauty Supplies,"['Beauty Shop', 'Beauty Store']"
+7314002,B&B/Guest House,"['B&B', 'B & B', 'B and B', 'Guesthouse', 'Guest House', 'Bed and Breakfast', 'Bed & Breakfast']"
+7315006,Belgian Restaurant,"['Belgian Food', 'Belgian Cuisine']"
+9361072,Betting Station,"['Bookmaker', 'Bookie']"
+7315007,Bistro,[]
+9663004,Blood Bank,[]
+9910004,Boat Dealer,['Boat Sales']
+9362032,Boat Launching Ramp,[]
+9361083,Boating Equipment & Accessories,"['Boating Equipment', 'Boating Accessories']"
+7310002,Bodyshop,"['Panel Beater', 'Body Shop', 'Car Body Shop', 'Car Bodyshop', 'Panelbeaters']"
+7315088,Bolivian Restaurant,"['Bolivian Cuisine', 'Bolivian Food']"
+9361002,Book Shop,"['Book Seller', 'Book Store']"
+7315089,Bosnian Restaurant,"['Bosnian Cuisine', 'Bosnian Food']"
+9378002,Bowling Center,"['Bowling Centre', 'Bowling Alley']"
+7315072,Brazilian Restaurant,"['Brazilian Cuisine', 'Brazilian Food']"
+7376010,Bridge,[]
+9352035,Bridge & Tunnel Operations,[]
+7315008,British Restaurant,"['British Food', 'British Cuisine']"
+7315142,Buffet Restaurant,['Buffet']
+7376002,Building,[]
+7315090,Bulgarian Restaurant,"['Bulgarian Food', 'Bulgarian Cuisine']"
+7304004,Bungalow Rental,"['Crib Rental', 'Batch Rental']"
+7315091,Burmese Restaurant,"['Burmese Food', 'Burmese Cuisine']"
+9910008,Bus Dealer,"['Coach Dealer', 'Bus Sales']"
+9352025,Bus Charter Company,"['Bus Hire Company', 'Bus Rental Company', 'Bus Charter', 'Bus Hire', 'Bus Rental']"
+9352027,Bus Lines,"['Local Bus Services', 'Bus Route', 'Bus Services', 'Local Buses']"
+9942002,Bus Stop,[]
+9352039,Business Services,[]
+7318006,Cabaret Theater,"['Cabaret', 'Cabaret Theatre']"
+7314007,Cabins & Lodges,"['Lodge', 'Lodges', 'Cabins', 'Cabin', 'Hut']"
+9352040,Cable & Telephone Company,"['Telecommunications Company', 'Telecoms Company', 'Cable Company', 'Telephone Company']"
+9376002,Café,['Cafe']
+7315147,Cafeteria,['Cafetaria']
+7315009,Californian Restaurant,"['Californian Cuisine', 'Californian Food']"
+7315092,Cambodian Restaurant,"['Cambodian Cuisine', 'Cambodian Food']"
+7315010,Canadian Restaurant,"['Canadian Cuisine', 'Canadian Food']"
+8099020,Cape,[]
+9910002,Car Dealer,['Car Dealership']
+7310003,Car Glass Replacement Shop,"['Windscreen Repair', 'Auto Glass Repair', 'Auto Glass Replacement', 'Car Glass Replacement', 'Car Glass Repair', 'Window Replacement', 'Windshield Repair']"
+9155002,Car Wash,"['Carwash', 'Auto Wash']"
+7360003,Caravan Site,"['RV Park', 'Camper Van', 'Mobile Park', 'Caravan Park', 'Mobile Home Park', 'Trailer Park']"
+7315011,Caribbean Restaurant,"['Caribbean Food', 'Caribbean Cuisine']"
+9352043,Catering Services,"['Caterers', 'Catering']"
+8099003,Cave,['Cavern']
+9361003,"CDs, DVD & Videos","['Video Shop', 'CD Store', 'CD Shop', 'Video Store', 'DVD Store', 'DVD Shop', 'Video Centre']"
+9361044,Video Rental Shop,"['Video Rental', 'Video & Game Rental', 'Video and Game Rental', 'Video Rental Store', 'Video Parlour', 'Video Store']"
+9362003,Cemetery,[]
+7304005,Chalet Rental,[]
+9352014,Chemical Company,"['Chemical Plant', 'Chemical Supplier']"
+7315070,Chicken Restaurant,[]
+7372003,Child Care Facility,"['Day Care', 'Play School', 'Crèche', 'Nursery School', 'Nursery', 'Daycare', 'Daycare Center', 'Day Nursery']"
+7315093,Chilean Restaurant,"['Chilean Food', 'Chilean Cuisine']"
+7315012,Chinese Restaurant,"['Chinese Cuisine', 'Chinese Food']"
+9361082,Christmas/Holiday Shop,"['Holiday Store', 'Chrismas Store', 'Christmas Shop', 'Christmas Store', 'Vacation Store', 'Christmas/Holiday Store', 'Holiday Shop', 'Xmas Store', 'Christmas/Vacation Store']"
+7339002,Church,[]
+7342002,Movie Theater,"['Picture House', 'Movie Theatre', 'The Pictures', 'Big Screen', 'Film House', 'Movie Hall', 'Cinema', 'Movie House', 'Picture Theatre', 'The Movies', 'Cinema Hall', 'Movies', 'Silver Screen', 'Picture Theater']"
+9352029,Cleaning Services,['Cleaners']
+9361004,Children's Clothes,"[""Kids' Clothes""]"
+9361005,Footwear & Shoe Repairs,[]
+9361006,Clothing Shop,"['Apparel', 'Clothing Store', 'Apparel Store', 'Clothes Shop', 'Clothing hop', 'Clothes Store', 'Clothes']"
+9361007,Men's Clothing,"[""Men's Clothes"", 'Menswear']"
+9361079,Specialty Clothing Shop,['Specialty Clothing Store']
+9361008,Women's Clothing,"['Womenswear', ""Women's Clothes""]"
+9942005,Coach Stop,['Coach Terminus']
+9379006,Cocktail Bar,"['Cocktail', 'Cocktails']"
+9376006,Coffee Shop,"['Coffee House', 'Coffeehouse', 'Coffeeshop']"
+7377002,College/University,"['Tertiary Education', 'University', 'College', 'Uni']"
+7315094,Colombian Restaurant,"['Colombian Cuisine', 'Colombian Food']"
+9379009,Comedy Club,['Comedy Bar']
+9352004,Computer & Data Services,"['Data Services', 'Computer Services', 'IT Services']"
+9352005,Software Company,"['Software Design', 'Software Engineering']"
+7318002,Concert Hall,['Music Hall']
+7303006,Condominium Complex,"['Condominium Block', 'Condominium', 'Condo']"
+9352032,Construction Company,[]
+9361042,Construction Material & Equipment,"['Building Supplies', 'Construction Equipment', 'Builders Merchant', 'Construction Supplies', 'Construction Material']"
+9361009,Convenience Store,"['Corner Store', 'Dairy', 'Corner Shop', 'Superette', 'General Store']"
+7315095,Corsican Restaurant,"['Corsican Cuisine', 'Corsican Food']"
+7304002,Cottage Rental,[]
+8099017,Cove,[]
+7315063,Creole Restaurant,"['Creole Cuisine', 'Creole Food']"
+7315013,Crêperie,['Pancake House']
+7374003,Cricket Ground,"['Cricket Oval', 'Cricket Green', 'Cricket Pitch', 'Cricket Field']"
+7315096,Cuban Restaurant,"['Cuban Cuisine', 'Cuban Food']"
+7372015,Culinary School,"['Hotel Management Institute', 'Catering School']"
+9160004,Currency Exchange,['Money Exchange']
+7315097,Cypriot Restaurant,"['Cypriot Food', 'Cypriot Cuisine']"
+7315068,Czech Restaurant,"['Czech Food', 'Czech Cuisine']"
+7376007,Dam,[]
+9378003,Dance Studio & School,"['Dance Studio', 'Dance School', 'Dance Academy']"
+7315098,Danish Restaurant,"['Danish Food', 'Danish Cuisine']"
+9361060,Delicatessen,"['Deli', 'Delicacies']"
+7318008,Dinner Theater,['Dinner Theatre']
+9379002,Disco Club,"['Club', 'Dance Hall', 'Disco', 'Nightclub', 'Discotheque']"
+9352006,Diversified Financials,[]
+7315099,Dominican Restaurant,"['Dominican Food', 'Dominican Cuisine']"
+7315057,Dongbei Restaurant,"['Dongbei Food', 'Dongbei Cuisine']"
+7315079,Doughnut Restaurant,"['Doughnuts', 'Donuts', 'Donut Restaurant', 'Doughnut Shop']"
+9361076,Drive Through Bottle Shop,['Drive Through Liquor Store']
+7342003,Drive-In Movies,"['Drive-In Theater', 'Drive-in Theatre', 'Drive-In', 'Drive-In Cinema']"
+7372016,Driving School,"[""Driver's Ed"", 'Driving Academy', 'Driving Tuition', ""Driver's Education""]"
+9361051,Drug Store,"['Chemist', 'Drugstore']"
+9361010,Dry Cleaner,['Dry Cleaning']
+8099005,Dune,[]
+7315014,Dutch Restaurant,"['Dutch Cuisine', 'Dutch Food']"
+7315100,Egyptian Restaurant,"['Egyptian Cuisine', 'Egyptian Food']"
+9361052,Electrical Appliances Shop,['Electrical Appliances Store']
+9361011,Cameras & Photography,"['Cameras', 'Photography Store', 'Photography', 'Camera Store']"
+9361012,Computer & Computer Supplies,"['Computer Store', 'Computer Supplies', 'Computer', 'Computer Shop']"
+9361013,Consumer Electronics,"['Electronics Shop', 'Electronics', 'Electronics Store']"
+9361014,Office Equipment,"['Office Supplies', 'Stationary Store']"
+7315101,English Restaurant,"['English Cuisine', 'English Food']"
+9352038,Equipment Rental,['Equipment Hire']
+7315132,Erotic Restaurant,[]
+7315102,Ethiopian Restaurant,"['Ethiopian Cuisine', 'Ethiopian Food']"
+7315133,Exotic Restaurant,"['Exotic Cuisine', 'Exotic Food']"
+9361016,Factory Outlet,"['Factory Store', 'Outlet Store']"
+9362017,Fairground,[]
+7335004,Farm,[]
+7332004,Farmers Market,[]
+7315015,Fast Food,"['Fastfood Restaurant', 'Fast Food Restaurant']"
+7315016,Philippine Restaurant,"['Philippine Cuisine', 'Philippine Food']"
+7315104,Finnish Restaurant,"['Finnish Cuisine', 'Finnish Food']"
+9362016,Fishing & Hunting Area,[]
+7320002,Fitness Club & Center,"['Fitness Club & Centre', 'Fitness Centre', 'Gymnasium', 'Fitness Center', 'Gym', 'Fitness Club']"
+7303003,Flats/Apartment Complex,"['Apartment Building', 'Block of Flats', 'Apartment Complex', 'Flats Complex', 'Apartment Block']"
+9361017,Florists,"['Florist', 'Flowers', 'Flower Shop']"
+9378004,Flying Club,[]
+7315134,Fondue Restaurant,[]
+9361018,Bakery,"[""Baker's"", 'Baker', 'Bakers']"
+9361019,Butcher,['Butchers Shop']
+9361020,Fishmonger,['Fish Market']
+9361021,Food Market,[]
+9361022,Greengrocer,"['Grocer', 'Vegetable Grocery Store']"
+9361023,Grocery Store,"['Grocery', 'Groceries']"
+9361024,Other Food Shops,[]
+9361025,Wine & Spirits,"['Liquor', 'Off License', 'Liquor Store', 'Off Licence', 'Spirits', 'Liquor Outlet', 'Wholesale Liquor', 'Alcohol', 'Bottle Store']"
+7374010,Football Stadium,"['American Football Stadium', 'Football Field', 'Football Ground', 'Football Arena']"
+9362015,Forest Area,"['Forest', 'Woods']"
+7315017,French Restaurant,"['French Food', 'French Cuisine']"
+9352036,Funeral Service & Mortuaries,"['Mortuaries', 'Mortician', 'Funeral Parlor', 'Funeral Home', 'Funeral Parlour', 'Morgue', 'Undertaker', 'Mortuary', 'Funeral Service']"
+9361054,Furniture/Home Furnishings,"['Furniture Showroom', 'House Fittings', 'Home Furnishings', 'Furnishings', 'Furniture', 'Furniture & Fittings']"
+7315071,Fusion Restaurant,"['Fusion Food', 'Fusion Cuisine']"
+7324002,Post Office,"['Post', 'Postal Service']"
+7310004,Car Repair and Service,[]
+9373002,General Practitioner,"['Physician', 'GP', 'MD', 'Medical Practitioner']"
+7315018,German Restaurant,"['German Cuisine', 'German Food']"
+9361026,"Gifts, Cards, Novelties & Souvenirs",[]
+9361055,Glassware/Ceramic Shop,[]
+9160003,Gold Exchange,[]
+7315019,Greek Restaurant,"['Greek Food', 'Greek Cuisine']"
+7315020,Grill Restaurant,"['Grill Cuisine', 'Grill Food', 'Grill', 'Tandoor Shop']"
+7315054,Guangdong Restaurant,"['Guangdong Cuisine', 'Guangdong Food', 'Cantonese Food', 'Cantonese Cuisine', 'Cantonese Restaurant']"
+7339006,Gurudwara,[]
+9361027,Hairdresser,"['Hair Stylist', 'Hair Styling', 'Hair Saloon']"
+7315069,Hamburger Restaurant,"['Burgers', 'Burger Joint', 'Hamburgers']"
+8099018,Harbor,"['Haven', 'Harbour']"
+9361069,Hardware Store,"['Hardware Shop', 'Hardware Supplies']"
+7315021,Hawaiian Restaurant,"['Hawaiian Food', 'Hawaiian Cuisine']"
+7372006,High School,['Secondary School']
+7302004,Hiking Trail,"['Hiking Path', 'Walking Trail']"
+8099025,Hill,[]
+9362004,Historic Site,[]
+9362005,Historical Park,[]
+9361053,Hobby Shop,"['Free Time Shop', 'Craft Shop', 'Hobby/Free Time Shop', 'Free Time Store', 'Hobby Store', 'Craft Store']"
+9937003,Hockey Club,[]
+9352044,Home Appliance Repair,"['Domestic Appliance Repair', 'Electrical Appliance Repair', 'Appliance Repair']"
+7374005,Horse Racing Track,"['Horse Race Track', 'Horse Racing', 'Horse Racing Stadium', 'Race Course', 'Race Track']"
+7320003,Horse Riding Center,"['Equestrian Centre', 'Equestrian Center', 'Horse Riding', 'Horse Riding Centre']"
+7335002,Horticulture,[]
+7321005,Hospital for Women and Children,"[""Women's & Children's Hospital""]"
+7321004,Hospital of Chinese Medicine,[]
+7314004,Hostel,['Hostelry']
+7315058,Hot Pot Restaurant,[]
+7314003,Hotel,[]
+9361028,Carpet/Floor Coverings,[]
+9361029,Curtains/Textiles,['Curtains/Textiles Shop']
+9361030,Do-It-Yourself Centers,"['DIY Store', 'DIY', 'Do-It-Yourself Centres', 'Do-It-Yourself']"
+9361031,House & Garden: Furniture & Fittings,[]
+9361032,Garden Centers & Services,"['Garden Services', 'Garden Centers', 'Garden Centre', 'Garden Centres & Services', 'Garden Center']"
+9361080,Glass & Windows Store,"['Glass Store', 'Window Shop', 'Glazier', 'Glass Shop', 'Window Store']"
+9361033,Kitchens & Bathrooms,['Kitchens & Sanitory Store']
+9361034,Lighting Shops,"['Lighting', 'Lighting Store', 'Light Shop', 'Lights', 'Lighting Stores', 'Lamps']"
+9361035,Painting & Decorating,[]
+7315052,Hunan Restaurant,"['Xiang Food', 'Xiang Cuisine', 'Xiang Restaurant', 'Hunan Cuisine', 'Hunan Food']"
+7315022,Hungarian Restaurant,"['Hungarian Food', 'Hungarian Cuisine']"
+7315078,Ice Cream Parlor,[]
+7374008,Ice Hockey Arena,"['Ice Hockey', 'Ice Rink', 'Ice Hockey Stadium']"
+9352042,Import/Export and Distribution,"['Import, Export and Distribution Company']"
+7315023,Indian Restaurant,"['Indian Cuisine', 'Indian Food']"
+7315024,Indonesian Restaurant,"['Indonesian Food', 'Indonesian Cuisine']"
+7332002,Informal Market,[]
+9352007,Insurance Company,"['Insurance Agency', 'Insurance', 'Insurance Agent', 'Insurance Broker']"
+7315073,International Restaurant,"['International Cuisine', 'International Food']"
+7380002,International Railroad Station,['International Railway Station']
+9376004,Internet Café,[]
+9352037,Investment Advisor,['Financial Advisor']
+7315105,Iranian Restaurant,"['Iranian Cuisine', 'Iranian Food']"
+7315065,Irish Restaurant,"['Irish Food', 'Irish Cuisine']"
+8099022,Island,[]
+7315106,Israeli Restaurant,"['Israeli Cuisine', 'Israeli Food']"
+7315025,Italian Restaurant,"['Italian Cuisine', 'Italian Food']"
+7315066,Jamaican Restaurant,"['Jamaican Cuisine', 'Jamaican Food']"
+7315026,Japanese Restaurant,"['Japanese Food', 'Japanese Cuisine']"
+9379008,Jazz Club,['Jazz Bar']
+9361036,"Jewelry, Clocks & Watches",[]
+7315027,Jewish Restaurant,"['Jewish Cuisine', 'Jewish Food']"
+7377003,Junior College/Community College,"['TAFE College', 'Technical and Further Education College', 'Polytech', 'Polytechnic', 'Sixth Form College']"
+9379010,Karaoke Club,"['Karaoke Bar', 'Karaoke']"
+7315028,Korean Restaurant,"['Korean Cuisine', 'Korean Food']"
+7315067,Kosher Restaurant,"['Kosher Food', 'Kosher Cuisine']"
+8099019,Lagoon,[]
+9362006,Lakeshore,['Lakeside']
+7372010,Language School,['Language Academy']
+7315029,Latin American Restaurant,"['Latin American Food', 'Latin American Cuisine']"
+9361045,Laundry,"['Launderette', 'Laundrette', 'Laundry Store', 'Laundromat']"
+7315030,Lebanese Restaurant,"['Lebanese Cuisine', 'Lebanese Food']"
+9352023,Legal Services,"['Law Service', 'Law Office', 'Law']"
+7324003,Local Post Office,[]
+9361056,Local Specialities Shop,['Local Specialties Shop']
+8099027,Locale,[]
+9361071,Lottery Shop,"['Lottery Store', 'Lotto Store', 'Lotto']"
+7315107,Luxembourgian Restaurant,"['Luxembourgian Food', 'Luxembourgian Cuisine']"
+7315135,Macrobiotic Restaurant,"['Macrobiotic Cuisine', 'Macrobiotic Food']"
+7315108,Maghrib Restaurant,"['Maghrib Cuisine', 'Maghreb Restaurant', 'Maghrib Food', 'Maghreb Cuisine', 'Maghreb Food']"
+9352008,Delivery Service,[]
+7315031,Maltese Restaurant,"['Maltese Cuisine', 'Maltese Food']"
+9352011,Manufacturing Company,[]
+7347002,Marina,['Boat Basin']
+9361065,Marine Electronic Equipment,[]
+8099023,Marsh,"['Swamp', 'Wetlands', 'Bog']"
+7315109,Mauritian Restaurant,"['Mauritian Food', 'Mauritian Cuisine']"
+7376011,Mausoleum/Grave,[]
+9352016,Mechanical Engineering,[]
+9361043,Medical Supplies & Equipment,"['Medical Distributor', 'Medical Supplies', 'Medical Equipment']"
+7315032,Mediterranean Restaurant,"['Mediterranean Cuisine', 'Mediterranean Food']"
+9362007,Memorial,[]
+7380005,Subway Station,"['Underground Station', 'Metro Station', 'Subway', 'Tube', 'Metro', 'Underground']"
+7315033,Mexican Restaurant,"['Mexican Food', 'Mexican Cuisine']"
+9376007,Microbrewery,['Independent Brewery']
+7315034,Middle Eastern Restaurant,"['Middle Eastern Cuisine', 'Middle Eastern Food']"
+7372014,Middle School,"['Junior High', 'Intermediate School']"
+7383004,Military Airport,"['Defence Airport', 'Air Force Base']"
+8099021,Mineral/Hot Springs,['Spring Bath']
+9352031,Mining Company,"['Mining', 'Mine']"
+9361075,Mobile Phone Shop,"['Cell Phone Shop', 'Cell Phone Store', 'Smart Phones', 'Cell Phones']"
+7315110,Mongolian Restaurant,"['Mongolian Cuisine', 'Mongolian Food']"
+7376003,Monument,[]
+7315074,Moroccan Restaurant,"['Moroccan Cuisine', 'Moroccan Food']"
+7339003,Mosque,['Masjid']
+7314006,Motel,[]
+7374011,Motor Racing Stadium,"['Motor Racing Circuit', 'Motor Racing Track', 'Motorsport', 'Motor Sport', 'Motor Racing', 'Motorsport Circuit']"
+9910003,Motorcycle Dealer,"['Motorbike Sales', 'Motorbike Dealer', 'Motorcycle Sales', 'Bike Dealer', 'Motor Cycle Dealer', 'Scooter Dealer']"
+7310008,Motorcycle Repair,"['Motorbike Servicing', 'Motorcycle Servicing', 'Motorbike Repair']"
+7302002,Mountain Bike Trail,['Mountain Bike Path']
+8099002,Mountain Peak,"['Mountain Top', 'Mountain Summit', 'Mountain Crest', 'Mountain Crown', 'Mountain Tip']"
+9352033,Moving & Storage Company,[]
+7374006,Multi-Purpose Stadium,[]
+7318003,Music Center,['Music Centre']
+9361059,Music Instruments Store,"['Musical Instruments Store', 'Music Instruments Shop', 'Musical Instruments Shop']"
+7315136,Mussels Restaurant,['Mussels']
+9361068,Nail Salon,"['Manicure', 'Nail Bar', 'Pedicure', 'Nails']"
+7380003,National Railroad Station,['National Railway Station']
+9362030,Natural Recreation Attraction,['Natural Attraction']
+7315111,Nepalese Restaurant,"['Nepalese Food', 'Nepalese Cuisine']"
+7374014,Netball Stadium,"['Netball Ground', 'Netball Court', 'Netball Arena']"
+9361037,Newsagents & Tobacconists,[]
+7315112,Norwegian Restaurant,"['Norwegian Cuisine', 'Norwegian Food']"
+8099011,Oasis,[]
+7376005,Observatory,[]
+9352021,OEM,['Original Equipment Manufacturer']
+9352030,Oil & Natural Gas,"['Oil & Natural Gas Company', 'Oil Company']"
+7318004,Opera House,['Opera']
+9361038,Optician,['Optometrist']
+7315075,Organic Food Restaurant,"['Organic Food', 'Organic Restaurant', 'Organic Cuisine']"
+7315035,Oriental Restaurant,"['Oriental Cuisine', 'Oriental Food']"
+7310005,Other Repair Shops,[]
+9362025,Other Winter Sport,[]
+7339008,Pagoda,[]
+7315127,Pakistani Restaurant,"['Pakistani Cuisine', 'Pakistani Food']"
+8099009,Pan,[]
+9362008,Park,['Parkland']
+9362009,Parkway,[]
+9932002,Passenger Transport Ticket Office,"['Ticket Office', 'Ticket Counter']"
+9361070,Pawn Shop,"['Pawnbroker', 'Pawnshop']"
+9932003,Pedestrian Subway,"['Subway', 'Underpass']"
+9663003,Personal Care Facility,[]
+9663002,Personal Service,[]
+7315061,Peruvian Restaurant,"['Peruvian Cuisine', 'Peruvian Food']"
+9361064,Pet Supplies,"['Pet Shop', 'Pet Store']"
+9352018,Pharmaceutical Company,['Drug Company']
+9361046,Photo Lab/Development,"['Photo Developing', 'Photo Developers', 'Photo Studio', 'Photo Lab', 'Photo Development']"
+9361047,Photocopy Shop,"['Photocopying Shop', 'Copiers', 'Xerox Shop', 'Photocopying', 'Copy Shop', 'Photocopiers']"
+9362033,Picnic Area,['Picnic Ground']
+7315036,Pizzeria,"['Pizza Parlor', 'Pizzaria', 'Pizza Restaurant', 'Pizza Shop', 'Pizza']"
+8099007,Plain/Flat,[]
+7376006,Planetarium,[]
+8099008,Plateau,[]
+7315037,Polish Restaurant,"['Polish Cuisine', 'Polish Food']"
+7315129,Polynesian Restaurant,"['Polynesian Cuisine', 'Polynesian Food']"
+7315038,Portuguese Restaurant,"['Portuguese Cuisine', 'Portuguese Food']"
+7372004,Pre School,"['Kindergarten', 'Preschool', 'Nursery School', 'Pre-School']"
+9362010,Preserve,[]
+7335003,Primary Producer,[]
+7372005,Primary School,"['Elementary School', 'Junior School']"
+7383003,Private Airport,[]
+9379003,Private Club,"[""Members' Club""]"
+7315130,Provençal Restaurant,"['Provençal Food', 'Provençal Cuisine']"
+9376003,Pub,['Public House']
+7315039,Pub Food,"['Bar Snacks', 'Bar Food']"
+7332003,Public Market,[]
+7383002,Public Airport,[]
+9932004,Public Call Box,"['Public Phone', 'PCO', 'Phone Booth', 'Phone Box', 'Public Telephone Box', 'Payphone', 'Telephone Box', 'Call Box']"
+9352017,Public Health Technology Company,['Public Health Tech Company']
+9352019,Publishing Technologies,['Publishing House']
+8099026,Quarry,[]
+7374013,Race Track,"['Raceway', 'Racing', 'Racing Track', 'Racecourse', 'Racetrack', 'Racing Circuit']"
+7380006,Railroad Siding,['Railway Siding']
+8099015,Rapids,[]
+9352009,Real Estate Company,"['Commercial Property Agent', 'Real Estate', 'Land Agent', 'Real Estate Agent', 'Estate Agent', 'Real Estate Agency', 'Real Estate Agents', 'Real Estate Broker']"
+9361015,Real Estate Agent,"['Commercial Property Agent', 'Realtor', 'Land Agent', 'Real Estate Broker', 'Estate Agent']"
+9362011,Recreation Area,[]
+7360002,Recreational Camping Ground,[]
+9910005,Recreational Vehicle Dealer,"['Camper Van Dealer', 'RV Dealer', 'Motorhome Dealer', 'RV Sales', 'Caravan Dealer', 'Motorhome Sales', 'Recreational Vehicle Sales']"
+9361057,Recycling Shop,"['Charity Shop', 'Thrift Store', 'Second-hand Shop']"
+8099014,Reef,[]
+8099013,Reservoir,[]
+7303004,Residential Estate,['Residential Colony']
+7314005,Resort,[]
+7314008,Rest Camp,[]
+9361063,Retail Outlet,[]
+7303002,Retirement Community,"['Old Age Home', 'Nursing Home', 'Retirement Home', 'Retirement Village']"
+8099004,Ridge,[]
+8099024,River Crossing,['Ford']
+9932006,Road Rescue,"['Roadside Assistance', 'Breakdown Service', 'Breakdown Rescue', 'Road Assistance', 'Breakdown Assistance', 'AAA', 'Vehicle Assistance', 'Tow Truck']"
+7315041,Roadside Restaurant,"['Food Joint', 'Road House', 'Roadhouse', 'Diner']"
+7302006,Rock Climbing Trail,['Rock Climbing Route']
+8099012,Rocks,[]
+7374007,Rugby Ground,"['Rugby Stadium', 'Rugby Pitch']"
+7315131,Romanian Restaurant,"['Rumanian Cuisine', 'Rumanian Food', 'Romanian Cuisine', 'Romanian Food']"
+7315040,Russian Restaurant,"['Russian Cuisine', 'Russian Food']"
+7315143,Salad Bar,['Salad']
+7310006,Car Accessories,['Vehicle Accessories']
+7315042,Sandwich Restaurant,"['Submarine Sandwich', 'Sub Shop', 'Subs', 'Sandwich Shop', 'Sandwiches', 'Sandwich', 'Sandwich Corner', 'Sandwich Bar']"
+9378005,"Sauna, Solarium & Massage","['Wellness', 'Spa']"
+9352010,Savings Institution,['Savings Bank']
+7315113,Savoy Restaurant,"['Savoy Cuisine', 'Savoy Food']"
+7315114,Scandinavian Restaurant,"['Scandinavian Food', 'Scandinavian Cuisine']"
+7372002,School,['Educational Institution']
+7315115,Scottish Restaurant,"['Scottish Food', 'Scottish Cuisine']"
+7315043,Seafood,['Seafood Restaurant']
+9362013,Seashore,[]
+7389004,Secured Entrance,['Security Gate']
+9361078,Security Products,['Security Solutions']
+7372007,Senior High School,[]
+9352002,Service Company,[]
+7315053,Shandong Restaurant,"['Lu Cuisine', 'Shandong Cuisine', 'Shandong Food']"
+7315055,Shanghai Restaurant,"['Shanghai Cuisine', 'Shanghai Food', 'Hu Cuisine']"
+9361062,Shopping Service,[]
+7315056,Sichuan Restaurant,"['Szechwan Cuisine', 'Sichuan Food', 'Szechuan Restaurant', 'Sichuan Cuisine', 'Szechuan Cuisine', 'Szechuan Food']"
+7315116,Sicilian Restaurant,"['Sicilian Cuisine', 'Sicilian Food']"
+9362026,Ski Resort,['Ski Retreat']
+7315117,Slavic Restaurant,"['Slavic Food', 'Slavic Cuisine']"
+7315080,Slovak Restaurant,"['Slovak Food', 'Slovak Cuisine']"
+7315139,Snacks Restaurant,"['Snack Bar', 'Snacks Centre']"
+9378006,"Snooker, Pool & Billiard",[]
+7374004,Soccer Stadium,"['Soccer Field', 'Football Stadium', 'Football Ground', 'Soccer Arena']"
+7315064,Soul Food,"['Southern Restaurant', 'Southern Cuisine', 'Southern Food']"
+7315140,Soup Restaurant,['Soup']
+7315044,Spanish Restaurant,"['Spanish Food', 'Spanish Cuisine']"
+7321003,Special Hospital,[]
+7372013,Special School,[]
+9373003,Specialist,[]
+9361061,Specialty Foods,[]
+7372011,Sport School,['Sports Academy']
+7320004,Sports Center,['Sports Centre']
+9361039,Sports Equipment & Clothing,"['Sports Clothing', 'Sports Equipment']"
+7320006,Squash Court,[]
+9361074,Stamp Shop,['Stamps']
+7389003,Station Access,[]
+7376013,Statue,[]
+7315045,Steak House,"['Steakhouse', 'Steak Restaurant']"
+9160002,Stock Exchange,[]
+7315118,Sudanese Restaurant,"['Sudanese Food', 'Sudanese Cuisine']"
+7332005,Supermarkets & Hypermarkets,"['Hypermarket', 'Hypermarkets', 'Supermarket', 'Superstore', 'Supermarkets']"
+7315046,Surinamese Restaurant,"['Surinamese Food', 'Surinamese Cuisine']"
+7315148,Sushi Restaurant,"['Sushi House', 'Sushi Bar']"
+7315119,Swedish Restaurant,"['Swedish Food', 'Swedish Cuisine']"
+7315047,Swiss Restaurant,"['Swiss Food', 'Swiss Cuisine']"
+7339004,Synagog,['Synagogue']
+7315120,Syrian Restaurant,"['Syrian Cuisine', 'Syrian Food']"
+9361077,Tailor Shop,"['Tailor', 'Tailors']"
+7315059,Taiwanese Restaurant,"['Taiwanese Cuisine', 'Taiwanese Food']"
+7315145,Takeout Food,"['Takeaway', 'Take Away', 'Carry-out', 'Takeout', 'Take Out', 'Take-out', 'To Go', 'Take Away Food', 'Takeout Restaurant', 'Takeaway Food']"
+7315076,Tapas Restaurant,"['Tapas', 'Tapas Bar']"
+9352022,Tax Services,"['Chartered Accountant', 'Tax Broker', 'Tax Consultants', 'Tax Accountant', 'Tax Agent']"
+9942003,Taxi Stand,"['Cab', 'Cab Stand', 'Cab Rank', 'Taxi Rank', 'Taxi']"
+9352026,"Taxi, Limousine & Shuttle Service",[]
+9376005,Tea House,"['Tea Stall', 'Tea Room']"
+7372009,Technical School,['Polytechnic School']
+9352020,Telecommunications,"['Telecom', 'Telecoms']"
+7339005,Temple,['Mandir']
+7315121,Teppanyaki Restaurant,"['Teppanyaki Cuisine', 'Teppanyaki Food']"
+7315048,Thai Restaurant,"['Thai Cuisine', 'Thai Food']"
+7318005,Theater,"['Play House', 'Playhouse', 'Theatre']"
+7320005,Thematic Sport Center,['Thematic Sport Centre']
+7315122,Tibetan Restaurant,"['Tibetan Cuisine', 'Tibetan Food']"
+9932005,Public Toilet,"['Public Lavatories', 'Public W.C.', 'Public Toilets', 'Public Bathroom', 'Public Rest Room']"
+7376009,Tower,[]
+7303005,Townhouse Complex,[]
+9361040,Toys & Games Shop,"['Toy Store', 'Toy Shop', 'Gameshop', 'Toy Stores', 'Games Shop', 'Game Shop', 'Games Shops']"
+7301002,Traffic Control Department,"['Traffic Management Department', 'RTO']"
+9942004,Streetcar Stop,"['Tram Stop', 'Streetcar', 'Cable Car Stop']"
+9352024,Transport Company,[]
+9361041,Travel Agent,"['Travel Agency', 'Travel Bureau']"
+9910006,Truck Dealer,"['Commercial Vehicle Dealer', 'Lorry Dealer', 'Truck Sales']"
+7310009,Truck Repair and Service,"['Truck Service', 'Lorry Service', 'Lorry Repair', 'Truck Repair']"
+9155003,Truck Wash,[]
+7315123,Tunisian Restaurant,"['Tunisian Cuisine', 'Tunisian Food']"
+7376008,Tunnel,[]
+7315049,Turkish Restaurant,"['Turkish Cuisine', 'Turkish Food']"
+7310007,Tire Service,"['Tire Shop', 'Tyre Shop', 'Tire Retail', 'Tyre Service', 'Tyre Centre', 'Tire Center', 'Tire Centre', 'Tyre Retail']"
+7315124,Uruguayan Restaurant,"['Uruguayan Food', 'Uruguayan Cuisine']"
+8099006,Valley,[]
+9910007,Van Dealer,['Van Sales']
+9361081,Variety Store,[]
+7315050,Vegetarian Restaurant,"['Vegetarian Cuisine', 'Vegetarian Food']"
+7315125,Venezuelan Restaurant,"['Venezuelan Food', 'Venezuelan Cuisine']"
+7315051,Vietnamese Restaurant,"['Vietnamese Cuisine', 'Vietnamese Food']"
+7304003,Villa Rental,[]
+7372008,Vocational School,"['Trade School', 'Vocational Education', 'Vocational Training']"
+7376014,Water Hole,['Watering Hole']
+9352046,Wedding Services,"['Wedding Planners', 'Wedding Planning']"
+7359003,Weigh Scales,"['HVSS', 'Weigh Scale', 'Heavy Vehicle Safety Station', 'Heavy Vehicle Safety Stations', 'Weigh Bridge']"
+7359002,Weigh Station,['Weigh Scales']
+8099010,Well,[]
+7315126,Welsh Restaurant,"['Welsh Food', 'Welsh Cuisine']"
+7315060,Western Restaurant,"['Western Food', 'Western Cuisine']"
+9361066,Wholesale Club,"['Warehouse Club', 'Wholesale Shop']"
+9362014,Wilderness Area,['SSSI']
+9927005,Wildlife Park,"['Wildlife Refuge', 'Wildlife', 'Wildlife Conservation', 'Wildlife Sanctuary']"
+9379007,Wine Bar,[]
+7347003,Yacht Basin,['Yacht Club']
+7315149,Yogurt/Juice Bar,[]
+9927003,Zoo,['Zoological Garden']
+9352015,Electronics Company,['Electronics Supplier']
+9362036,River Scenic Area,[]
+7302005,Horse Riding Trail,['Horse Riding Path']
+7321002,Hospital,"['Clinic', 'Polyclinic', 'Hospital/Polyclinic']"
+7376004,Natural Tourist Attraction,['Natural Attraction']
+7369002,Open Car Parking Area,[]
+7369003,Open Coach Parking Area,[]
+7369004,Open Truck Parking Area,[]
+9362037,Protected Area,[]
+9364002,Medicinal Marijuana Dispensary,[]
+9364003,Recreational Marijuana Dispensary,[]
+9360,Ice Skating Rink,"['Ice Rink', 'Ice Skating', 'Skating Rink']"
+9369,Tennis Court,['Tennis']
+9911,Golf Course,"['Golf', 'Golf Links', 'Links', 'Golf Club', 'Links Course']"
+9371,Water Sport,['Water Sports']
+7338,Swimming Pool,"['Pool', 'Swimming Baths', 'Baths', 'Public Pool']"
+9359,Restaurant Area,"['Food Court', 'Dining Area']"
+9374,Dentist,"[""Dentist's Office"", 'Dental Surgery', 'Denture Repair', 'Teeth', 'Tooth Doctor', 'Dental Practitioner']"
+9375,Veterinarian,"['Veterinary Clinic', 'Animal Clinic', 'Animal Hospital', 'Vet Clinic', 'Veterinary Doctor', 'Animal Doctor', 'Vet', 'Veterinary Surgeon']"
+7326,Pharmacy,['Pharmacist']
+9956,EmergencyRoom,['Emergency Room']
+7327,Department Store,['General Store']
+7373,Shopping Center,"['Mall', 'Shopping Mall', 'Shopping Centre', 'Shopping Complex', 'Precinct', 'Shopping Arcade', 'Shopping Precinct']"
+7392,Fire Station,"['Fire Department', 'Firehouse', 'Firemen', 'Fire Hall', 'Fire Station/Brigade', 'Fire Service', 'Fire Brigade']"
+9152,Non Governmental Organization,"['Non Governmental Organisation', 'NGO', 'Non-Governmental Organization']"
+9154,Prison/Correctional Facility,"['Correctional Facility', 'Prison', 'Correctional Department', 'Jail', 'Remand Home']"
+7365,Embassy,[]
+9913,Library,['Public Library']
+9151,Transport Authority/Vehicle Registration Office,"['Vehicle Registration Office', 'Ministry of Transport', 'Transport Authority', 'DMV', 'Vehicle Registration', 'Transport Authority/Vehicle Registration', 'MOT', 'Department of Motor Vehicles', 'RTO']"
+9153,Welfare Organization,"['Trust', 'Welfare', 'Welfare Organisation']"
+9389,Native Reservation,[]
+9363,Courthouse,"['Magistrate Court', 'Lawcourt', 'Lawcourts', 'Court of Law', 'Law Courts', 'Judiciary', 'Law Court', 'Courtroom', 'Tribunal', 'Court House']"
+7322,Police Station,"['Station House', 'Police Department', 'Police', 'Cops']"
+9150,Primary Resource/Utility,"['Primary Resources', 'Utility', 'Primary Utility', 'Primary Utilities', 'Utilities', 'Primary Resource']"
+7367,Government Office,"['Government Building', 'Government Agency']"
+9388,Military Installation,"['Cantonment Area', 'Barracks', 'Military Base']"
+9930,Rent-a-Car-Parking,"['Rent-a-Car Parking', 'Rental Parking', 'Hire Car Parking', 'Rental Parking Garage', 'Rental Car Parking']"
+7317,Museum,[]
+9383,Industrial Building,[]
+7313,Parking Garage,"['Parking Structure', 'Secure Parking', 'Indoor Parking', 'Parking Ramp']"
+7316,Tourist Information Office,"['Tourist Office', 'Visitor Information Center', 'Visitor Information Centre', 'Visitor Center', 'Information Center', 'Tourist Centre', 'Tourist Center', 'Tourist Information Centre', 'Tourist Information Center', 'Tourist Information', 'I-site', 'Information Centre', 'Information Office', 'Visitor Centre']"
+9158,Media Facility,"['Broadcaster', 'Media Center', 'Media House', 'Media Centre', 'Media Studio', 'Broadcasting House']"
+7349,Winery,"['Vineyard', 'Vinery', 'Wine Maker', 'Vintner', 'Wine Estate', 'Winemaker']"
+7391,Emergency Medical Service,"['A & E', 'First Aid Station', 'Accident and Emergency', 'Accident & Emergency Unit', 'Emergency Department', 'First Aid', 'Medical Service', 'A&E', 'Emergency Call Station', 'Urgent Care', 'First Aid Post', 'Ambulance Service']"
+7341,Casino,"['Betting', 'Gambling', 'Gaming Parlour']"
+9156,Manufacturing Facility,"['Production Plant', 'Manufacturing Plant', 'Factory']"
+9382,Commercial Building,[]
+7319,Cultural Center,['Cultural Centre']
+9377,Exhibition & Convention Center,"['Conference Center', 'Convention Center', 'Meeting Center', 'Convention Centre', 'Meeting Centre', 'Assembly Center', 'Conference Hall', 'Exhibition Center', 'Exhibition Centre', 'Exhibition & Convention Centre']"
+7312,Rent-a-Car Facility,"['Car Rental Services', 'Car Rental', 'Rent a Car', 'You-Drive', 'Car Rental Facility', 'Self-Drive', 'Rent-a-Car', 'U-Drive', 'Car Hire']"
+7358,Truck Stop,"['Truck Service', 'Transport Café', 'Coach & Lorry Parking', 'Dhaba', 'Coach and Lorry Parking', 'Coach & Truck Parking', 'Bus & Truck Park']"
+7305,Adventure Sports Facility,"['Adventure Sports Venue', 'Adventure Sports', 'Outdoor Centre']"
+7395,Rest Area,"['Break Area', 'Service Area', 'Layby', 'Rest Stop', 'Lay-by', 'Highway Services']"
+9157,Research Facility,"['Research Center', 'Research Centre', 'Research Institute']"
+7388,Courier Drop Box,['Drop Box']
+7311,Gas Station,"['Gasoline Station', 'Servo', 'Service Station', 'Petrol Station', 'Fuel Station', 'Petrol Pump', 'Fuel Stop', 'Filling Station', 'Diesel Station']"
+7368,Motoring Organization Office,"['Motoring Association', 'Automobile Association', 'AA']"
+7397,ATM,"['Cash Point', 'Cash Machine', 'Teller', 'Cashpoint', 'ATM Machine', 'Automated Teller Machine', 'Money Machine', 'Bank Machine', 'Cash Dispenser', 'Automatic Teller', 'Automatic Teller Machine']"
+7363,Community Center,"['Village Hall', 'Community Centre']"
+9357,Beach,"['Strand', 'Shore', 'Sea', 'Coast']"
+9159,Port/Warehouse Facility,[]
+7309,Electric Vehicle Charging Station,"['Electric Charger', 'Electric Vehicle Station', 'EV Charger', 'Electric Vehicle Charge Point', 'Charging Station', 'Electric Car Charge Point', 'Charge Spot', 'Charging Spot', 'Electric Car Charging Station', 'Electrical Vehicle Station', 'EV Charging Station', 'Charge Park', 'Charge Station', 'EV POI', 'Electrical Vehicle Charging Station', 'Charging Point', 'EV station', 'Charging Park']"
+7337,Scenic/Panoramic View,"['Lookout', 'Scenic View', 'Panorama', 'Scenery', 'Beauty Spot', 'Panoramic View', 'Vista', 'Viewpoint']"
+9900,Entertainment,[]
+7378,Business Park,"['Office Park', 'Enterprise Park', 'Enterprise Zone']"
+7328,Bank,[]
+7308,Helipad,"['Helicopter Landing Pad', 'Heliport', 'Helicopter', 'Helicopter Landing']"
+9955,Checkpoint,[]
+7366,Frontier Crossing,"['Border Control', 'Frontier', 'Integrated Check Post', 'Checkpost', 'Customs Office', 'Border Crossing', 'Landing Custom Station', 'Border', 'Border Line', 'Borderline', 'Customs', 'Border Security']"
+9935,Mountain Pass,['Mountain Road']
+7375,Toll Gate,"['Toll Booth', 'Toll Bar', 'Toll Plaza', 'Toll Station', 'Toll Collection Gate']"
+7352,Ferry Terminal,"['Ferry', 'Ferry Station', 'Ferry Wharf', 'Ferries', 'Ferry Dock', 'Ferry Crossing']"
