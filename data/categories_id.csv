@@ -1,32 +1,21 @@
 id,name,synonyms
 9376,Café/Pub,[]
 9379004,Bar,[]
-9379004,Bar,[]
-7314002,B&B/Guest House,"['B&B', 'B & B', 'B and B', 'Guesthouse', 'Guest House', 'Bed and Breakfast', 'Bed & Breakfast']"
+7314002,B&B/Guest House,"['Bed & Breakfast', 'B & B', 'B and B', 'Guesthouse', 'Guest House', 'B&B', 'Bed and Breakfast']"
 7315007,Bistro,[]
 7318006,Cabaret Theater,"['Cabaret', 'Cabaret Theatre']"
 9376002,Café,['Cafe']
 7315147,Cafeteria,['Cafetaria']
 9379006,Cocktail Bar,"['Cocktail', 'Cocktails']"
-9376006,Coffee Shop,"['Coffee House', 'Coffeehouse', 'Coffeeshop']"
+9376006,Coffee Shop,"['Coffeeshop', 'Coffeehouse', 'Coffee House']"
 9379009,Comedy Club,['Comedy Bar']
-9379009,Comedy Club,['Comedy Bar']
-9361018,Bakery,"[""Baker's"", 'Baker', 'Bakers']"
+9361018,Bakery,"[""Baker's"", 'Bakers', 'Baker']"
 9376004,Internet Café,[]
 9379008,Jazz Club,['Jazz Bar']
 9379010,Karaoke Club,"['Karaoke Bar', 'Karaoke']"
-9379010,Karaoke Club,"['Karaoke Bar', 'Karaoke']"
-9379010,Karaoke Club,"['Karaoke Bar', 'Karaoke']"
-7315039,Pub Food,"['Bar Snacks', 'Bar Food']"
+7315039,Pub Food,"['Bar Food', 'Bar Snacks']"
 7315143,Salad Bar,['Salad']
-7315143,Salad Bar,['Salad']
-7315143,Salad Bar,['Salad']
-7315143,Salad Bar,['Salad']
-7315143,Salad Bar,['Salad']
-7315143,Salad Bar,['Salad']
-9376005,Tea House,"['Tea Stall', 'Tea Room']"
-9379007,Wine Bar,[]
+9376005,Tea House,"['Tea Room', 'Tea Stall']"
 7315149,Yogurt/Juice Bar,[]
-7315149,Yogurt/Juice Bar,[]
-7358,Truck Stop,"['Truck Service', 'Transport Café', 'Coach & Lorry Parking', 'Dhaba', 'Coach and Lorry Parking', 'Coach & Truck Parking', 'Bus & Truck Park']"
-7375,Toll Gate,"['Toll Booth', 'Toll Bar', 'Toll Plaza', 'Toll Station', 'Toll Collection Gate']"
+7358,Truck Stop,"['Coach & Truck Parking', 'Bus & Truck Park', 'Coach & Lorry Parking', 'Truck Service', 'Dhaba', 'Transport Café', 'Coach and Lorry Parking']"
+7375,Toll Gate,"['Toll Booth', 'Toll Bar', 'Toll Collection Gate', 'Toll Plaza', 'Toll Station']"
