@@ -1,0 +1,2933 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_08b2c0b376720b893e8b9bcce6b7b0ea {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_08b2c0b376720b893e8b9bcce6b7b0ea" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_08b2c0b376720b893e8b9bcce6b7b0ea = L.map(
+                "map_08b2c0b376720b893e8b9bcce6b7b0ea",
+                {
+                    center: [38.711047915492955, -9.137413478873238],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "maxBounds": null,
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_96f5147f1f640a23cd364a67fbf32d8f = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_96f5147f1f640a23cd364a67fbf32d8f.addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var marker_1818e5198a3e2cfd1b344730c051264d = L.marker(
+                [38.712209, -9.138603],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_5f37fccd4c27c65db4ce3396206da2a8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_1818e5198a3e2cfd1b344730c051264d.setIcon(icon_5f37fccd4c27c65db4ce3396206da2a8);
+        
+    
+        var popup_db49166eac87724c4fbcf2aa2ec4a8e4 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_84fb4790c3ece5e0e85d9d02c5191d29 = $(`<div id="html_84fb4790c3ece5e0e85d9d02c5191d29" style="width: 100.0%; height: 100.0%;">Starbucks Santa Justa</div>`)[0];
+                popup_db49166eac87724c4fbcf2aa2ec4a8e4.setContent(html_84fb4790c3ece5e0e85d9d02c5191d29);
+            
+        
+
+        marker_1818e5198a3e2cfd1b344730c051264d.bindPopup(popup_db49166eac87724c4fbcf2aa2ec4a8e4)
+        ;
+
+        
+    
+    
+            var marker_f3771d3e4f5c29b08194acf7593c86b8 = L.marker(
+                [38.711541, -9.136832],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_2d3fb89c2b426abc2ce76c708d92aed6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_f3771d3e4f5c29b08194acf7593c86b8.setIcon(icon_2d3fb89c2b426abc2ce76c708d92aed6);
+        
+    
+        var popup_c5119a2bf3d48dcf1efd8426f0d62749 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_67bf9a4f76ce738b924a385bef35f84f = $(`<div id="html_67bf9a4f76ce738b924a385bef35f84f" style="width: 100.0%; height: 100.0%;">Copenhagen Coffee Lab</div>`)[0];
+                popup_c5119a2bf3d48dcf1efd8426f0d62749.setContent(html_67bf9a4f76ce738b924a385bef35f84f);
+            
+        
+
+        marker_f3771d3e4f5c29b08194acf7593c86b8.bindPopup(popup_c5119a2bf3d48dcf1efd8426f0d62749)
+        ;
+
+        
+    
+    
+            var marker_730fb801e2c2da48411bf5f8415cce94 = L.marker(
+                [38.710869, -9.13798],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_df84242f12483c86d46ce0e9a9be7ba8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_730fb801e2c2da48411bf5f8415cce94.setIcon(icon_df84242f12483c86d46ce0e9a9be7ba8);
+        
+    
+        var popup_b7c359a03bce615719cc4f9a2f3d61d1 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_cd0b17f67ebd4569e565fcf65712cb5a = $(`<div id="html_cd0b17f67ebd4569e565fcf65712cb5a" style="width: 100.0%; height: 100.0%;">Portugal Ways Baixa Original Apartments</div>`)[0];
+                popup_b7c359a03bce615719cc4f9a2f3d61d1.setContent(html_cd0b17f67ebd4569e565fcf65712cb5a);
+            
+        
+
+        marker_730fb801e2c2da48411bf5f8415cce94.bindPopup(popup_b7c359a03bce615719cc4f9a2f3d61d1)
+        ;
+
+        
+    
+    
+            var marker_f2005dd691bb1e95767bebd57ee7dfcf = L.marker(
+                [38.712214, -9.139302],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_eb3330fd06b92420e2ad3180073384fa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_f2005dd691bb1e95767bebd57ee7dfcf.setIcon(icon_eb3330fd06b92420e2ad3180073384fa);
+        
+    
+        var popup_00be23d9a4115f7e976af35af10872c3 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_ceb734c1c0f44abf98fc67e597c54b6a = $(`<div id="html_ceb734c1c0f44abf98fc67e597c54b6a" style="width: 100.0%; height: 100.0%;">Wonderland Cocktail Bar</div>`)[0];
+                popup_00be23d9a4115f7e976af35af10872c3.setContent(html_ceb734c1c0f44abf98fc67e597c54b6a);
+            
+        
+
+        marker_f2005dd691bb1e95767bebd57ee7dfcf.bindPopup(popup_00be23d9a4115f7e976af35af10872c3)
+        ;
+
+        
+    
+    
+            var marker_d1b9260d94e9bfe6c9cccb17efba5be8 = L.marker(
+                [38.709603, -9.136527],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_73c7919b553cd1f5327725091933324a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_d1b9260d94e9bfe6c9cccb17efba5be8.setIcon(icon_73c7919b553cd1f5327725091933324a);
+        
+    
+        var popup_1d1d92e23346f1f62afec3c159ce8932 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_ed5ea569e3828007414e707faa0166f4 = $(`<div id="html_ed5ea569e3828007414e707faa0166f4" style="width: 100.0%; height: 100.0%;">Fragoleto</div>`)[0];
+                popup_1d1d92e23346f1f62afec3c159ce8932.setContent(html_ed5ea569e3828007414e707faa0166f4);
+            
+        
+
+        marker_d1b9260d94e9bfe6c9cccb17efba5be8.bindPopup(popup_1d1d92e23346f1f62afec3c159ce8932)
+        ;
+
+        
+    
+    
+            var marker_acc17e86778d2172c39d1690ea0d8f60 = L.marker(
+                [38.710727, -9.136972],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_3f74eae44dbc70be1a2beed84a7c2279 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_acc17e86778d2172c39d1690ea0d8f60.setIcon(icon_3f74eae44dbc70be1a2beed84a7c2279);
+        
+    
+        var popup_9f8967f61e89e5cd361df76c49e1b95e = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_5d3a9339104abfba3fd2591002c0e500 = $(`<div id="html_5d3a9339104abfba3fd2591002c0e500" style="width: 100.0%; height: 100.0%;">Apartments in Downtown</div>`)[0];
+                popup_9f8967f61e89e5cd361df76c49e1b95e.setContent(html_5d3a9339104abfba3fd2591002c0e500);
+            
+        
+
+        marker_acc17e86778d2172c39d1690ea0d8f60.bindPopup(popup_9f8967f61e89e5cd361df76c49e1b95e)
+        ;
+
+        
+    
+    
+            var marker_a4d3f994516ad310d0f95b70030cf374 = L.marker(
+                [38.712329, -9.138098],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_8af0cfaad8823592b18367f8e84aaf2f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_a4d3f994516ad310d0f95b70030cf374.setIcon(icon_8af0cfaad8823592b18367f8e84aaf2f);
+        
+    
+        var popup_ad8801f3340f07d62232bcafbf9b4a04 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_e67fc086696201a0462a30855c194694 = $(`<div id="html_e67fc086696201a0462a30855c194694" style="width: 100.0%; height: 100.0%;">Santa Justa Prime Guesthouse</div>`)[0];
+                popup_ad8801f3340f07d62232bcafbf9b4a04.setContent(html_e67fc086696201a0462a30855c194694);
+            
+        
+
+        marker_a4d3f994516ad310d0f95b70030cf374.bindPopup(popup_ad8801f3340f07d62232bcafbf9b4a04)
+        ;
+
+        
+    
+    
+            var marker_62111d2254eaa141452de793443cee32 = L.marker(
+                [38.712567, -9.139167],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_97767c43bcf613704da4b216e9b5beae = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_62111d2254eaa141452de793443cee32.setIcon(icon_97767c43bcf613704da4b216e9b5beae);
+        
+    
+        var popup_47a898a2ab6f2cdd7aec2f3fbc1df104 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_f48572f09f7fffc7e117655ff93137a4 = $(`<div id="html_f48572f09f7fffc7e117655ff93137a4" style="width: 100.0%; height: 100.0%;">Casa Chinesa Pastelaria Restaurante</div>`)[0];
+                popup_47a898a2ab6f2cdd7aec2f3fbc1df104.setContent(html_f48572f09f7fffc7e117655ff93137a4);
+            
+        
+
+        marker_62111d2254eaa141452de793443cee32.bindPopup(popup_47a898a2ab6f2cdd7aec2f3fbc1df104)
+        ;
+
+        
+    
+    
+            var marker_774d1e2277dfd3585a82a26f7c3671f4 = L.marker(
+                [38.710704, -9.135531],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_59d7688f0d18e311c0d3c62a436ecdaa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_774d1e2277dfd3585a82a26f7c3671f4.setIcon(icon_59d7688f0d18e311c0d3c62a436ecdaa);
+        
+    
+        var popup_110fb6052f6f240bf19668c7e7a3e379 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_5218ab96fbcf7c977f28debcedda7ad3 = $(`<div id="html_5218ab96fbcf7c977f28debcedda7ad3" style="width: 100.0%; height: 100.0%;">Lxway Apartments Rua da Madalena</div>`)[0];
+                popup_110fb6052f6f240bf19668c7e7a3e379.setContent(html_5218ab96fbcf7c977f28debcedda7ad3);
+            
+        
+
+        marker_774d1e2277dfd3585a82a26f7c3671f4.bindPopup(popup_110fb6052f6f240bf19668c7e7a3e379)
+        ;
+
+        
+    
+    
+            var marker_d539de38f602a075b33916c3e0b264a7 = L.marker(
+                [38.71058, -9.13635],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_0bc75940cc0fbfc83888f29b003afe4c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_d539de38f602a075b33916c3e0b264a7.setIcon(icon_0bc75940cc0fbfc83888f29b003afe4c);
+        
+    
+        var popup_0056480c18d428414b9d9867e8ee7096 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_fdcd779d31cf36c45d3f7e8788a8acdd = $(`<div id="html_fdcd779d31cf36c45d3f7e8788a8acdd" style="width: 100.0%; height: 100.0%;">Nectar Bed & Breakfast</div>`)[0];
+                popup_0056480c18d428414b9d9867e8ee7096.setContent(html_fdcd779d31cf36c45d3f7e8788a8acdd);
+            
+        
+
+        marker_d539de38f602a075b33916c3e0b264a7.bindPopup(popup_0056480c18d428414b9d9867e8ee7096)
+        ;
+
+        
+    
+    
+            var marker_fecb22d6d02f3c117a9e67ae7b10412d = L.marker(
+                [38.711878, -9.137606],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_90d845a32d5e5e2a9cc54df6e51b09f2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_fecb22d6d02f3c117a9e67ae7b10412d.setIcon(icon_90d845a32d5e5e2a9cc54df6e51b09f2);
+        
+    
+        var popup_1dfe11f61ee3163c853df2839bd1d19b = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_0bbf88e234106c66328f7a9b64178e08 = $(`<div id="html_0bbf88e234106c66328f7a9b64178e08" style="width: 100.0%; height: 100.0%;">Myiced Baixa Pombalina</div>`)[0];
+                popup_1dfe11f61ee3163c853df2839bd1d19b.setContent(html_0bbf88e234106c66328f7a9b64178e08);
+            
+        
+
+        marker_fecb22d6d02f3c117a9e67ae7b10412d.bindPopup(popup_1dfe11f61ee3163c853df2839bd1d19b)
+        ;
+
+        
+    
+    
+            var marker_07942f425f29c04c88d95511820da61a = L.marker(
+                [38.711646, -9.137775],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_6c3da1a17bbf45377923f31b3e1df71b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_07942f425f29c04c88d95511820da61a.setIcon(icon_6c3da1a17bbf45377923f31b3e1df71b);
+        
+    
+        var popup_922faa64b104a21dab6a4ea274e3bc27 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_283766d238610b36942110e048662e7b = $(`<div id="html_283766d238610b36942110e048662e7b" style="width: 100.0%; height: 100.0%;">New Aljubarrota Guest House</div>`)[0];
+                popup_922faa64b104a21dab6a4ea274e3bc27.setContent(html_283766d238610b36942110e048662e7b);
+            
+        
+
+        marker_07942f425f29c04c88d95511820da61a.bindPopup(popup_922faa64b104a21dab6a4ea274e3bc27)
+        ;
+
+        
+    
+    
+            var marker_a6293a6e34553e14f8b8d7584ec3331f = L.marker(
+                [38.711593, -9.136433],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_fb67d1d0270f86057ccf8face6fb02cb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_a6293a6e34553e14f8b8d7584ec3331f.setIcon(icon_fb67d1d0270f86057ccf8face6fb02cb);
+        
+    
+        var popup_11fb2282e63903ca7cbb92d095d1c96d = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_c0329cdc34d8da6d5e7f8a8e8da9998c = $(`<div id="html_c0329cdc34d8da6d5e7f8a8e8da9998c" style="width: 100.0%; height: 100.0%;">Coffe House</div>`)[0];
+                popup_11fb2282e63903ca7cbb92d095d1c96d.setContent(html_c0329cdc34d8da6d5e7f8a8e8da9998c);
+            
+        
+
+        marker_a6293a6e34553e14f8b8d7584ec3331f.bindPopup(popup_11fb2282e63903ca7cbb92d095d1c96d)
+        ;
+
+        
+    
+    
+            var marker_89d9b6d4582011dc2f64118c71cb614e = L.marker(
+                [38.70943, -9.13842],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_4a94e1c0a7e903ec9cf83f354c25f048 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_89d9b6d4582011dc2f64118c71cb614e.setIcon(icon_4a94e1c0a7e903ec9cf83f354c25f048);
+        
+    
+        var popup_55e095b671d0cf5fb46ef75c40288645 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_65ad83f9b92a6a5c76f32f6226290859 = $(`<div id="html_65ad83f9b92a6a5c76f32f6226290859" style="width: 100.0%; height: 100.0%;">Ouro Grand By Level Residences</div>`)[0];
+                popup_55e095b671d0cf5fb46ef75c40288645.setContent(html_65ad83f9b92a6a5c76f32f6226290859);
+            
+        
+
+        marker_89d9b6d4582011dc2f64118c71cb614e.bindPopup(popup_55e095b671d0cf5fb46ef75c40288645)
+        ;
+
+        
+    
+    
+            var marker_89e14cf5a2672cbcf3c96c3a9b7b08d1 = L.marker(
+                [38.710085, -9.136907],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_5f333e3d713aeefe503e04846d38a1d7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_89e14cf5a2672cbcf3c96c3a9b7b08d1.setIcon(icon_5f333e3d713aeefe503e04846d38a1d7);
+        
+    
+        var popup_dff2168452dfe9822e515d2cca805d33 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_45928d761bba53058a99eb1f83104dbf = $(`<div id="html_45928d761bba53058a99eb1f83104dbf" style="width: 100.0%; height: 100.0%;">Correiros Deluxe Apartments, Rentexperience</div>`)[0];
+                popup_dff2168452dfe9822e515d2cca805d33.setContent(html_45928d761bba53058a99eb1f83104dbf);
+            
+        
+
+        marker_89e14cf5a2672cbcf3c96c3a9b7b08d1.bindPopup(popup_dff2168452dfe9822e515d2cca805d33)
+        ;
+
+        
+    
+    
+            var marker_52c98eb33c2adbf2ab785e67e3400ff2 = L.marker(
+                [38.71238, -9.136854],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_6fbd418cfd7d7c4a126fd73d5c2be6bc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_52c98eb33c2adbf2ab785e67e3400ff2.setIcon(icon_6fbd418cfd7d7c4a126fd73d5c2be6bc);
+        
+    
+        var popup_b5919c36ba5fa01930f56e6a6361c475 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_39204ee4f47bcdc5b10a6d0c7d5c6f50 = $(`<div id="html_39204ee4f47bcdc5b10a6d0c7d5c6f50" style="width: 100.0%; height: 100.0%;">Lx4u Apartments Baixa Douradores</div>`)[0];
+                popup_b5919c36ba5fa01930f56e6a6361c475.setContent(html_39204ee4f47bcdc5b10a6d0c7d5c6f50);
+            
+        
+
+        marker_52c98eb33c2adbf2ab785e67e3400ff2.bindPopup(popup_b5919c36ba5fa01930f56e6a6361c475)
+        ;
+
+        
+    
+    
+            var marker_53dcf3da549eec4c2725faa0987518c4 = L.marker(
+                [38.711423, -9.136998],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_a2448442e7c719b93179ff37775aff32 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_53dcf3da549eec4c2725faa0987518c4.setIcon(icon_a2448442e7c719b93179ff37775aff32);
+        
+    
+        var popup_aa7430067fa5552656c044236074c337 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_849542550ff03e4e51002eb34727c877 = $(`<div id="html_849542550ff03e4e51002eb34727c877" style="width: 100.0%; height: 100.0%;">Bubble Time Baixa Chiado</div>`)[0];
+                popup_aa7430067fa5552656c044236074c337.setContent(html_849542550ff03e4e51002eb34727c877);
+            
+        
+
+        marker_53dcf3da549eec4c2725faa0987518c4.bindPopup(popup_aa7430067fa5552656c044236074c337)
+        ;
+
+        
+    
+    
+            var marker_10a2f6f0775d031693b6dbf9405da13d = L.marker(
+                [38.713414, -9.136629],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_4d9b0eec5ea4e3e7835c07c042b12f2c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_10a2f6f0775d031693b6dbf9405da13d.setIcon(icon_4d9b0eec5ea4e3e7835c07c042b12f2c);
+        
+    
+        var popup_84bad6c0898544e9fe6530f361465d2e = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_a2f10e07740dc7d7d2919186b170dde3 = $(`<div id="html_a2f10e07740dc7d7d2919186b170dde3" style="width: 100.0%; height: 100.0%;">Downtown Design Apartments-Rentexperience</div>`)[0];
+                popup_84bad6c0898544e9fe6530f361465d2e.setContent(html_a2f10e07740dc7d7d2919186b170dde3);
+            
+        
+
+        marker_10a2f6f0775d031693b6dbf9405da13d.bindPopup(popup_84bad6c0898544e9fe6530f361465d2e)
+        ;
+
+        
+    
+    
+            var marker_4122986450b26329ea3658e90a23f49b = L.marker(
+                [38.709526, -9.138397],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_6d329c5aad995e9e846bbd9e70363b04 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_4122986450b26329ea3658e90a23f49b.setIcon(icon_6d329c5aad995e9e846bbd9e70363b04);
+        
+    
+        var popup_90cf02bdb7a4dcf1b819adf037be8cfc = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_d418299dfb153750f6452faba41af997 = $(`<div id="html_d418299dfb153750f6452faba41af997" style="width: 100.0%; height: 100.0%;">Baixa Collection Lisbon By Guestready</div>`)[0];
+                popup_90cf02bdb7a4dcf1b819adf037be8cfc.setContent(html_d418299dfb153750f6452faba41af997);
+            
+        
+
+        marker_4122986450b26329ea3658e90a23f49b.bindPopup(popup_90cf02bdb7a4dcf1b819adf037be8cfc)
+        ;
+
+        
+    
+    
+            var marker_63df46e2c629ca477e841b6088905d99 = L.marker(
+                [38.712147, -9.138845],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_cfb322be0eecb406396bb0967559006f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_63df46e2c629ca477e841b6088905d99.setIcon(icon_cfb322be0eecb406396bb0967559006f);
+        
+    
+        var popup_c4a529a5df726e7f56ebb5ec52341857 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_b34d6963ec2f11bd76a3264210735eb9 = $(`<div id="html_b34d6963ec2f11bd76a3264210735eb9" style="width: 100.0%; height: 100.0%;">Santa Justa Suites By Homing</div>`)[0];
+                popup_c4a529a5df726e7f56ebb5ec52341857.setContent(html_b34d6963ec2f11bd76a3264210735eb9);
+            
+        
+
+        marker_63df46e2c629ca477e841b6088905d99.bindPopup(popup_c4a529a5df726e7f56ebb5ec52341857)
+        ;
+
+        
+    
+    
+            var marker_e6ab0a40fab24457e97f8d7730c48fa5 = L.marker(
+                [38.709346, -9.137044],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_af4d416c25f8ccf93d7e84f9a072d04e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_e6ab0a40fab24457e97f8d7730c48fa5.setIcon(icon_af4d416c25f8ccf93d7e84f9a072d04e);
+        
+    
+        var popup_e76fbd78653c4103f7ed73ce6fdaaeb7 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_6da3d87b7f78bdb002a027b472a73e2e = $(`<div id="html_6da3d87b7f78bdb002a027b472a73e2e" style="width: 100.0%; height: 100.0%;">Unique Design Apartments</div>`)[0];
+                popup_e76fbd78653c4103f7ed73ce6fdaaeb7.setContent(html_6da3d87b7f78bdb002a027b472a73e2e);
+            
+        
+
+        marker_e6ab0a40fab24457e97f8d7730c48fa5.bindPopup(popup_e76fbd78653c4103f7ed73ce6fdaaeb7)
+        ;
+
+        
+    
+    
+            var marker_74948adb6874fe68732e17148d897ca3 = L.marker(
+                [38.70969, -9.135253],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_aeb2ff1493882bb59524e6a0c04cdf84 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_74948adb6874fe68732e17148d897ca3.setIcon(icon_aeb2ff1493882bb59524e6a0c04cdf84);
+        
+    
+        var popup_9e5073586a0432e3526927c3cbdb0a5b = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_c8c128968e7bae97f464411fba328e90 = $(`<div id="html_c8c128968e7bae97f464411fba328e90" style="width: 100.0%; height: 100.0%;">Portologia Lisboa, La Maison Des Porto</div>`)[0];
+                popup_9e5073586a0432e3526927c3cbdb0a5b.setContent(html_c8c128968e7bae97f464411fba328e90);
+            
+        
+
+        marker_74948adb6874fe68732e17148d897ca3.bindPopup(popup_9e5073586a0432e3526927c3cbdb0a5b)
+        ;
+
+        
+    
+    
+            var marker_63c15caadca635a59f5bde7b89994e4c = L.marker(
+                [38.71048, -9.13774],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_8eccc1abf196e482088c7b0aedc8be54 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_63c15caadca635a59f5bde7b89994e4c.setIcon(icon_8eccc1abf196e482088c7b0aedc8be54);
+        
+    
+        var popup_353873213494ca9f2ef522d4d01797c2 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_792dc405acb5862e5af2b4f71e8199f6 = $(`<div id="html_792dc405acb5862e5af2b4f71e8199f6" style="width: 100.0%; height: 100.0%;">Lisbon Charming Apartments Baixa</div>`)[0];
+                popup_353873213494ca9f2ef522d4d01797c2.setContent(html_792dc405acb5862e5af2b4f71e8199f6);
+            
+        
+
+        marker_63c15caadca635a59f5bde7b89994e4c.bindPopup(popup_353873213494ca9f2ef522d4d01797c2)
+        ;
+
+        
+    
+    
+            var marker_394e79f28d36f48932fd30ab8ec87bb5 = L.marker(
+                [38.709891, -9.135217],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_a98076ac8727568f6e6fb7ff7761fc89 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_394e79f28d36f48932fd30ab8ec87bb5.setIcon(icon_a98076ac8727568f6e6fb7ff7761fc89);
+        
+    
+        var popup_d66dd2706d1518370bda59255c56970a = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_edd34cf64852c70f92afa1184c9a0a51 = $(`<div id="html_edd34cf64852c70f92afa1184c9a0a51" style="width: 100.0%; height: 100.0%;">Alice Gelato Da Meraviglie</div>`)[0];
+                popup_d66dd2706d1518370bda59255c56970a.setContent(html_edd34cf64852c70f92afa1184c9a0a51);
+            
+        
+
+        marker_394e79f28d36f48932fd30ab8ec87bb5.bindPopup(popup_d66dd2706d1518370bda59255c56970a)
+        ;
+
+        
+    
+    
+            var marker_5513f218811b5cae3502859f9d69b156 = L.marker(
+                [38.709645, -9.135806],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_e400fd3bbbf642925680d027cc25e2a5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_5513f218811b5cae3502859f9d69b156.setIcon(icon_e400fd3bbbf642925680d027cc25e2a5);
+        
+    
+        var popup_137fd907fb168abecfb114dfbe0f1463 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_01fa97b4c6f15bae98696129c163e10a = $(`<div id="html_01fa97b4c6f15bae98696129c163e10a" style="width: 100.0%; height: 100.0%;">Bizzarro</div>`)[0];
+                popup_137fd907fb168abecfb114dfbe0f1463.setContent(html_01fa97b4c6f15bae98696129c163e10a);
+            
+        
+
+        marker_5513f218811b5cae3502859f9d69b156.bindPopup(popup_137fd907fb168abecfb114dfbe0f1463)
+        ;
+
+        
+    
+    
+            var marker_b8d131b7a35d05ba06859919c1276df1 = L.marker(
+                [38.711648, -9.136874],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_df944d42a02fb3c69474f9d555863655 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_b8d131b7a35d05ba06859919c1276df1.setIcon(icon_df944d42a02fb3c69474f9d555863655);
+        
+    
+        var popup_98cd9e17a2f56d6943eb607c04b4d93f = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_6eb8136a78011722ac1a038fa7c9c25f = $(`<div id="html_6eb8136a78011722ac1a038fa7c9c25f" style="width: 100.0%; height: 100.0%;">Bom Conforto</div>`)[0];
+                popup_98cd9e17a2f56d6943eb607c04b4d93f.setContent(html_6eb8136a78011722ac1a038fa7c9c25f);
+            
+        
+
+        marker_b8d131b7a35d05ba06859919c1276df1.bindPopup(popup_98cd9e17a2f56d6943eb607c04b4d93f)
+        ;
+
+        
+    
+    
+            var marker_4f4bb25292b34b8e80fad6af28e2e39d = L.marker(
+                [38.710588, -9.13692],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_5e1e73f6dcc48901c03563d32bd8f290 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_4f4bb25292b34b8e80fad6af28e2e39d.setIcon(icon_5e1e73f6dcc48901c03563d32bd8f290);
+        
+    
+        var popup_af49e14ef606a20d43a764d8cfd300bd = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_6fd1f397f21ff2636a3bb61ed23251ba = $(`<div id="html_6fd1f397f21ff2636a3bb61ed23251ba" style="width: 100.0%; height: 100.0%;">House Of Silver</div>`)[0];
+                popup_af49e14ef606a20d43a764d8cfd300bd.setContent(html_6fd1f397f21ff2636a3bb61ed23251ba);
+            
+        
+
+        marker_4f4bb25292b34b8e80fad6af28e2e39d.bindPopup(popup_af49e14ef606a20d43a764d8cfd300bd)
+        ;
+
+        
+    
+    
+            var marker_a7879546ffbfb754f7ce547cd587ef8b = L.marker(
+                [38.711679, -9.136887],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_67d75b18d71ca658a7018206f7125e7c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_a7879546ffbfb754f7ce547cd587ef8b.setIcon(icon_67d75b18d71ca658a7018206f7125e7c);
+        
+    
+        var popup_09c873450e32d61f00524a6b9e9531d0 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_de5d18dbd1e304ab6f6faacd96771d44 = $(`<div id="html_de5d18dbd1e304ab6f6faacd96771d44" style="width: 100.0%; height: 100.0%;">B in B Lisbon Downtown Suites</div>`)[0];
+                popup_09c873450e32d61f00524a6b9e9531d0.setContent(html_de5d18dbd1e304ab6f6faacd96771d44);
+            
+        
+
+        marker_a7879546ffbfb754f7ce547cd587ef8b.bindPopup(popup_09c873450e32d61f00524a6b9e9531d0)
+        ;
+
+        
+    
+    
+            var marker_6abaeb990fe87949a22358918d7cae3c = L.marker(
+                [38.71222, -9.139297],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_899021b086e5bd67906fd56fb3a6f197 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_6abaeb990fe87949a22358918d7cae3c.setIcon(icon_899021b086e5bd67906fd56fb3a6f197);
+        
+    
+        var popup_b651f63a39df2eed5c2b0d954811d746 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_8ae7a4dae635e1b8139a3adfaf48bca8 = $(`<div id="html_8ae7a4dae635e1b8139a3adfaf48bca8" style="width: 100.0%; height: 100.0%;">Nataria Nacional</div>`)[0];
+                popup_b651f63a39df2eed5c2b0d954811d746.setContent(html_8ae7a4dae635e1b8139a3adfaf48bca8);
+            
+        
+
+        marker_6abaeb990fe87949a22358918d7cae3c.bindPopup(popup_b651f63a39df2eed5c2b0d954811d746)
+        ;
+
+        
+    
+    
+            var marker_a3ebd9307d248429f176fad173994731 = L.marker(
+                [38.711182, -9.138631],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_6d9f1a11c5b713b88871551b3bb326cd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_a3ebd9307d248429f176fad173994731.setIcon(icon_6d9f1a11c5b713b88871551b3bb326cd);
+        
+    
+        var popup_6931ae8d3220f196b1c6f2f6dbbd9616 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_3dd786b2a96aa0219ea7d55b528471bc = $(`<div id="html_3dd786b2a96aa0219ea7d55b528471bc" style="width: 100.0%; height: 100.0%;">Cosy Baixa Studio</div>`)[0];
+                popup_6931ae8d3220f196b1c6f2f6dbbd9616.setContent(html_3dd786b2a96aa0219ea7d55b528471bc);
+            
+        
+
+        marker_a3ebd9307d248429f176fad173994731.bindPopup(popup_6931ae8d3220f196b1c6f2f6dbbd9616)
+        ;
+
+        
+    
+    
+            var marker_aae1d63a1df31f4d9530acff99931a92 = L.marker(
+                [38.709948, -9.136229],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_62c5b372d9a7b8ad2d31c3c1f8084ad7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_aae1d63a1df31f4d9530acff99931a92.setIcon(icon_62c5b372d9a7b8ad2d31c3c1f8084ad7);
+        
+    
+        var popup_0d8114a20c9e96223103f1100710bdbb = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_8b2bcb2346288ad963493a352e602d69 = $(`<div id="html_8b2bcb2346288ad963493a352e602d69" style="width: 100.0%; height: 100.0%;">Benedita Bakery &Amp; Breakfast</div>`)[0];
+                popup_0d8114a20c9e96223103f1100710bdbb.setContent(html_8b2bcb2346288ad963493a352e602d69);
+            
+        
+
+        marker_aae1d63a1df31f4d9530acff99931a92.bindPopup(popup_0d8114a20c9e96223103f1100710bdbb)
+        ;
+
+        
+    
+    
+            var marker_6eda14a1bdd5c9eb40042d1e228adc9d = L.marker(
+                [38.712482, -9.138969],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_9b42dd47c8ea8761db0874541ac5b66e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_6eda14a1bdd5c9eb40042d1e228adc9d.setIcon(icon_9b42dd47c8ea8761db0874541ac5b66e);
+        
+    
+        var popup_1740cc1fcd3f4bd58a876c7de28ecce5 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_c8c9046f77838e3e157746f5740340c3 = $(`<div id="html_c8c9046f77838e3e157746f5740340c3" style="width: 100.0%; height: 100.0%;">La Chinesa</div>`)[0];
+                popup_1740cc1fcd3f4bd58a876c7de28ecce5.setContent(html_c8c9046f77838e3e157746f5740340c3);
+            
+        
+
+        marker_6eda14a1bdd5c9eb40042d1e228adc9d.bindPopup(popup_1740cc1fcd3f4bd58a876c7de28ecce5)
+        ;
+
+        
+    
+    
+            var marker_6ef69f95603672e568fcedc53dd30f82 = L.marker(
+                [38.709992, -9.13524],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_04a3c8bfa985b9dcfc78bf2b5efb7d56 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_6ef69f95603672e568fcedc53dd30f82.setIcon(icon_04a3c8bfa985b9dcfc78bf2b5efb7d56);
+        
+    
+        var popup_94abbd2d282e43f23a419e1dbc4c943d = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_d3b011642228ca8164495d6bf0f8e674 = $(`<div id="html_d3b011642228ca8164495d6bf0f8e674" style="width: 100.0%; height: 100.0%;">Gelato Therapy</div>`)[0];
+                popup_94abbd2d282e43f23a419e1dbc4c943d.setContent(html_d3b011642228ca8164495d6bf0f8e674);
+            
+        
+
+        marker_6ef69f95603672e568fcedc53dd30f82.bindPopup(popup_94abbd2d282e43f23a419e1dbc4c943d)
+        ;
+
+        
+    
+    
+            var marker_c5224cc119dfa9177360d91b9b579f9b = L.marker(
+                [38.708974, -9.135125],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_c6d26b00d196b1d9f04ce0068fe48f61 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_c5224cc119dfa9177360d91b9b579f9b.setIcon(icon_c6d26b00d196b1d9f04ce0068fe48f61);
+        
+    
+        var popup_33c8739e40b574587abc6cd499e8ade3 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_2f01ca2ae7b3a81bc3361706aa550b07 = $(`<div id="html_2f01ca2ae7b3a81bc3361706aa550b07" style="width: 100.0%; height: 100.0%;">Honua Lisbon Food & Drinks</div>`)[0];
+                popup_33c8739e40b574587abc6cd499e8ade3.setContent(html_2f01ca2ae7b3a81bc3361706aa550b07);
+            
+        
+
+        marker_c5224cc119dfa9177360d91b9b579f9b.bindPopup(popup_33c8739e40b574587abc6cd499e8ade3)
+        ;
+
+        
+    
+    
+            var marker_97d07b4f5d80b51ad5981469bcca5bd1 = L.marker(
+                [38.710575, -9.137527],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_d05b26991de6be89201ea7fa3f1b8a26 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_97d07b4f5d80b51ad5981469bcca5bd1.setIcon(icon_d05b26991de6be89201ea7fa3f1b8a26);
+        
+    
+        var popup_c04655076750820e48fc2b41296a3e68 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_7ae2c7978419db73fd75cfffa8ca94ce = $(`<div id="html_7ae2c7978419db73fd75cfffa8ca94ce" style="width: 100.0%; height: 100.0%;">Augusta Residence Serviced Apartments</div>`)[0];
+                popup_c04655076750820e48fc2b41296a3e68.setContent(html_7ae2c7978419db73fd75cfffa8ca94ce);
+            
+        
+
+        marker_97d07b4f5d80b51ad5981469bcca5bd1.bindPopup(popup_c04655076750820e48fc2b41296a3e68)
+        ;
+
+        
+    
+    
+            var marker_38ed354a00e14c58446f2fb21261d0f1 = L.marker(
+                [38.711455, -9.138562],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_446476382af67e4fc0863af8ff343ef7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_38ed354a00e14c58446f2fb21261d0f1.setIcon(icon_446476382af67e4fc0863af8ff343ef7);
+        
+    
+        var popup_7f202284dfae52aa8b7e1ad415755058 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_a1ca1c21c37f3a0f0e8177296794ce68 = $(`<div id="html_a1ca1c21c37f3a0f0e8177296794ce68" style="width: 100.0%; height: 100.0%;">Love More Bar</div>`)[0];
+                popup_7f202284dfae52aa8b7e1ad415755058.setContent(html_a1ca1c21c37f3a0f0e8177296794ce68);
+            
+        
+
+        marker_38ed354a00e14c58446f2fb21261d0f1.bindPopup(popup_7f202284dfae52aa8b7e1ad415755058)
+        ;
+
+        
+    
+    
+            var marker_dea5a7933551904546ab31b704f0a879 = L.marker(
+                [38.709526, -9.138397],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_b7883ffda994f76bcaa50e0902e17c1d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_dea5a7933551904546ab31b704f0a879.setIcon(icon_b7883ffda994f76bcaa50e0902e17c1d);
+        
+    
+        var popup_2c896f3ef4db0c8d6bf478c93ea6d8d5 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_74cd7fe2351ea79f0588620d72b5a920 = $(`<div id="html_74cd7fe2351ea79f0588620d72b5a920" style="width: 100.0%; height: 100.0%;">Nomad's Golden Collection Lisbon</div>`)[0];
+                popup_2c896f3ef4db0c8d6bf478c93ea6d8d5.setContent(html_74cd7fe2351ea79f0588620d72b5a920);
+            
+        
+
+        marker_dea5a7933551904546ab31b704f0a879.bindPopup(popup_2c896f3ef4db0c8d6bf478c93ea6d8d5)
+        ;
+
+        
+    
+    
+            var marker_3c788a6316781157c4a36acb15c6b0ec = L.marker(
+                [38.712677, -9.137501],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_ec3302db4f5729a7b4962eeac9e3e349 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_3c788a6316781157c4a36acb15c6b0ec.setIcon(icon_ec3302db4f5729a7b4962eeac9e3e349);
+        
+    
+        var popup_f32e676e2195e578f5b64560191b33b8 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_6110fce7cf7399010dca77092a234a57 = $(`<div id="html_6110fce7cf7399010dca77092a234a57" style="width: 100.0%; height: 100.0%;">Espressolab Portugal</div>`)[0];
+                popup_f32e676e2195e578f5b64560191b33b8.setContent(html_6110fce7cf7399010dca77092a234a57);
+            
+        
+
+        marker_3c788a6316781157c4a36acb15c6b0ec.bindPopup(popup_f32e676e2195e578f5b64560191b33b8)
+        ;
+
+        
+    
+    
+            var marker_8a67d44bc8aebefd40d9b0edcfd9168e = L.marker(
+                [38.710503, -9.137071],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_27dd4266f850b4bc233d7a9e8a6f783e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_8a67d44bc8aebefd40d9b0edcfd9168e.setIcon(icon_27dd4266f850b4bc233d7a9e8a6f783e);
+        
+    
+        var popup_5d8a0a04dca1f0e7e4306f0446e3b466 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_c941272d1aea0989b2175abeffc74763 = $(`<div id="html_c941272d1aea0989b2175abeffc74763" style="width: 100.0%; height: 100.0%;">Gelateria La Romana - Lisboa</div>`)[0];
+                popup_5d8a0a04dca1f0e7e4306f0446e3b466.setContent(html_c941272d1aea0989b2175abeffc74763);
+            
+        
+
+        marker_8a67d44bc8aebefd40d9b0edcfd9168e.bindPopup(popup_5d8a0a04dca1f0e7e4306f0446e3b466)
+        ;
+
+        
+    
+    
+            var marker_f4133c12d7015562a174e91cce74471e = L.marker(
+                [38.710222, -9.138506],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_224c4aa3bf5e3b09f0be987a567658f7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_f4133c12d7015562a174e91cce74471e.setIcon(icon_224c4aa3bf5e3b09f0be987a567658f7);
+        
+    
+        var popup_cd116c7be2c2b57045c68903cba615bb = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_383e569165674a3fe2a6600c8bc43b3d = $(`<div id="html_383e569165674a3fe2a6600c8bc43b3d" style="width: 100.0%; height: 100.0%;">Café Penta - Tostas E Bolos A Metro</div>`)[0];
+                popup_cd116c7be2c2b57045c68903cba615bb.setContent(html_383e569165674a3fe2a6600c8bc43b3d);
+            
+        
+
+        marker_f4133c12d7015562a174e91cce74471e.bindPopup(popup_cd116c7be2c2b57045c68903cba615bb)
+        ;
+
+        
+    
+    
+            var marker_41c41901fcdccbda72dea4d8bc0628df = L.marker(
+                [38.7124, -9.138598],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_b49c5ebbdeabbfaf24c7cc8a9df920fc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_41c41901fcdccbda72dea4d8bc0628df.setIcon(icon_b49c5ebbdeabbfaf24c7cc8a9df920fc);
+        
+    
+        var popup_a304865949e5dc244dfde2910af61e58 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_65fcbfa861d3eef17d97ecbefbe88fa2 = $(`<div id="html_65fcbfa861d3eef17d97ecbefbe88fa2" style="width: 100.0%; height: 100.0%;">Jesus Caballero Photography</div>`)[0];
+                popup_a304865949e5dc244dfde2910af61e58.setContent(html_65fcbfa861d3eef17d97ecbefbe88fa2);
+            
+        
+
+        marker_41c41901fcdccbda72dea4d8bc0628df.bindPopup(popup_a304865949e5dc244dfde2910af61e58)
+        ;
+
+        
+    
+    
+            var marker_1a21fcd3731e99621ded35a4adc388af = L.marker(
+                [38.711416, -9.137861],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_9c8723cbc96479b8436a5a5b795d1df4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_1a21fcd3731e99621ded35a4adc388af.setIcon(icon_9c8723cbc96479b8436a5a5b795d1df4);
+        
+    
+        var popup_018594db19906b9668a6bc864cf80a1d = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_a18c259e99b18c00f27d8e4ee5fd9d2d = $(`<div id="html_a18c259e99b18c00f27d8e4ee5fd9d2d" style="width: 100.0%; height: 100.0%;">Pastelaria Ferrari</div>`)[0];
+                popup_018594db19906b9668a6bc864cf80a1d.setContent(html_a18c259e99b18c00f27d8e4ee5fd9d2d);
+            
+        
+
+        marker_1a21fcd3731e99621ded35a4adc388af.bindPopup(popup_018594db19906b9668a6bc864cf80a1d)
+        ;
+
+        
+    
+    
+            var marker_7d6ef7000cca7b45f3f7870730f1b6a5 = L.marker(
+                [38.713334, -9.1366],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_c049c12ff6fec82e4b9886a329628e81 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_7d6ef7000cca7b45f3f7870730f1b6a5.setIcon(icon_c049c12ff6fec82e4b9886a329628e81);
+        
+    
+        var popup_ca1d87272f0077aaefa43411e51b4896 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_f4877c42236a538180dc80f1755b9f73 = $(`<div id="html_f4877c42236a538180dc80f1755b9f73" style="width: 100.0%; height: 100.0%;">Solar Da Madalena</div>`)[0];
+                popup_ca1d87272f0077aaefa43411e51b4896.setContent(html_f4877c42236a538180dc80f1755b9f73);
+            
+        
+
+        marker_7d6ef7000cca7b45f3f7870730f1b6a5.bindPopup(popup_ca1d87272f0077aaefa43411e51b4896)
+        ;
+
+        
+    
+    
+            var marker_42012d792047336a806c04de261b4c18 = L.marker(
+                [38.709084, -9.134854],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_aedfcbe20eddf774d2fa404118577916 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_42012d792047336a806c04de261b4c18.setIcon(icon_aedfcbe20eddf774d2fa404118577916);
+        
+    
+        var popup_6113ae64a28e1b14ed345cfddfeb7710 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_597cb02a85f9b7b6cc4bb24e9b892d35 = $(`<div id="html_597cb02a85f9b7b6cc4bb24e9b892d35" style="width: 100.0%; height: 100.0%;">Hermitage Castelo-Casa Saint Jorge</div>`)[0];
+                popup_6113ae64a28e1b14ed345cfddfeb7710.setContent(html_597cb02a85f9b7b6cc4bb24e9b892d35);
+            
+        
+
+        marker_42012d792047336a806c04de261b4c18.bindPopup(popup_6113ae64a28e1b14ed345cfddfeb7710)
+        ;
+
+        
+    
+    
+            var marker_cf069caa570ba624a84efe10d27b76ac = L.marker(
+                [38.71085, -9.138054],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_45af4e78a583d277a48b5c0a4e654586 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_cf069caa570ba624a84efe10d27b76ac.setIcon(icon_45af4e78a583d277a48b5c0a4e654586);
+        
+    
+        var popup_5d9faec4418ce24ab34ed829c004651c = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_af48d931aedbad1bf2e83e526838479f = $(`<div id="html_af48d931aedbad1bf2e83e526838479f" style="width: 100.0%; height: 100.0%;">Pau De Canela</div>`)[0];
+                popup_5d9faec4418ce24ab34ed829c004651c.setContent(html_af48d931aedbad1bf2e83e526838479f);
+            
+        
+
+        marker_cf069caa570ba624a84efe10d27b76ac.bindPopup(popup_5d9faec4418ce24ab34ed829c004651c)
+        ;
+
+        
+    
+    
+            var marker_c19e08bf78c3f930c77c74e12d56a764 = L.marker(
+                [38.709431, -9.137548],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_dd348cbbf42ebac9b15336cfd6c8b3c8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_c19e08bf78c3f930c77c74e12d56a764.setIcon(icon_dd348cbbf42ebac9b15336cfd6c8b3c8);
+        
+    
+        var popup_f61d16ec6745a96a5fcfee6581850503 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_8ff1ee5ef04308df5b58a7a47e6018d3 = $(`<div id="html_8ff1ee5ef04308df5b58a7a47e6018d3" style="width: 100.0%; height: 100.0%;">Welcome Home</div>`)[0];
+                popup_f61d16ec6745a96a5fcfee6581850503.setContent(html_8ff1ee5ef04308df5b58a7a47e6018d3);
+            
+        
+
+        marker_c19e08bf78c3f930c77c74e12d56a764.bindPopup(popup_f61d16ec6745a96a5fcfee6581850503)
+        ;
+
+        
+    
+    
+            var marker_fca9c453c0cc8f490cb752d2a63c0acf = L.marker(
+                [38.712232, -9.138517],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_ed05dd3b9f7d04ca7e5b491aa09d66a3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_fca9c453c0cc8f490cb752d2a63c0acf.setIcon(icon_ed05dd3b9f7d04ca7e5b491aa09d66a3);
+        
+    
+        var popup_b9586fa706f5e52ffe0394307063b380 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_d76546c121ac68bcb462f20ad2c6e1fe = $(`<div id="html_d76546c121ac68bcb462f20ad2c6e1fe" style="width: 100.0%; height: 100.0%;">Santa Justa 77-Downtown Luxury Apartments</div>`)[0];
+                popup_b9586fa706f5e52ffe0394307063b380.setContent(html_d76546c121ac68bcb462f20ad2c6e1fe);
+            
+        
+
+        marker_fca9c453c0cc8f490cb752d2a63c0acf.bindPopup(popup_b9586fa706f5e52ffe0394307063b380)
+        ;
+
+        
+    
+    
+            var marker_168785b41a3e5cd8de4f0c3af9396b7a = L.marker(
+                [38.711756, -9.136676],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_5d9cf578bad6cb21ea758a608348976a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_168785b41a3e5cd8de4f0c3af9396b7a.setIcon(icon_5d9cf578bad6cb21ea758a608348976a);
+        
+    
+        var popup_b4551db8a06c1d01964d81cab2ab5389 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_d9c62f7237b785feb79bb019083cf8f6 = $(`<div id="html_d9c62f7237b785feb79bb019083cf8f6" style="width: 100.0%; height: 100.0%;">Lovelystay-Charming Douradoures I</div>`)[0];
+                popup_b4551db8a06c1d01964d81cab2ab5389.setContent(html_d9c62f7237b785feb79bb019083cf8f6);
+            
+        
+
+        marker_168785b41a3e5cd8de4f0c3af9396b7a.bindPopup(popup_b4551db8a06c1d01964d81cab2ab5389)
+        ;
+
+        
+    
+    
+            var marker_6d8e8fc3655716716c3af79086d2f61d = L.marker(
+                [38.70997, -9.138436],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_63d4383a4d474d5da31fb0e135e5f816 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_6d8e8fc3655716716c3af79086d2f61d.setIcon(icon_63d4383a4d474d5da31fb0e135e5f816);
+        
+    
+        var popup_91285994296cc53acecfac02339e7e97 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_7d22e57adba3202644f30acd20cd45e1 = $(`<div id="html_7d22e57adba3202644f30acd20cd45e1" style="width: 100.0%; height: 100.0%;">Prima Collection-São Nicolau 119 Luxury Apartments</div>`)[0];
+                popup_91285994296cc53acecfac02339e7e97.setContent(html_7d22e57adba3202644f30acd20cd45e1);
+            
+        
+
+        marker_6d8e8fc3655716716c3af79086d2f61d.bindPopup(popup_91285994296cc53acecfac02339e7e97)
+        ;
+
+        
+    
+    
+            var marker_4c8a53f6705d3b139076a7552053fa65 = L.marker(
+                [38.710675, -9.137956],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_c93b813db3cc4eb791463a2aafb870c7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_4c8a53f6705d3b139076a7552053fa65.setIcon(icon_c93b813db3cc4eb791463a2aafb870c7);
+        
+    
+        var popup_ca1cdbee49868753f47522cd04e56af1 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_09dd1e80a7a97777961135668ecf3072 = $(`<div id="html_09dd1e80a7a97777961135668ecf3072" style="width: 100.0%; height: 100.0%;">Ferraria Xvi Flh Hotels Lisboa</div>`)[0];
+                popup_ca1cdbee49868753f47522cd04e56af1.setContent(html_09dd1e80a7a97777961135668ecf3072);
+            
+        
+
+        marker_4c8a53f6705d3b139076a7552053fa65.bindPopup(popup_ca1cdbee49868753f47522cd04e56af1)
+        ;
+
+        
+    
+    
+            var marker_00c8f212caba59df222cd22374217d93 = L.marker(
+                [38.711622, -9.138649],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_b3b3d00f5064a7336f71ee352a1d03c9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_00c8f212caba59df222cd22374217d93.setIcon(icon_b3b3d00f5064a7336f71ee352a1d03c9);
+        
+    
+        var popup_1b9ae31dd1069cacbd51155ad5efb0e7 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_d740d848b97c9f00cb2d64ddab94f019 = $(`<div id="html_d740d848b97c9f00cb2d64ddab94f019" style="width: 100.0%; height: 100.0%;">Bonbon Cha</div>`)[0];
+                popup_1b9ae31dd1069cacbd51155ad5efb0e7.setContent(html_d740d848b97c9f00cb2d64ddab94f019);
+            
+        
+
+        marker_00c8f212caba59df222cd22374217d93.bindPopup(popup_1b9ae31dd1069cacbd51155ad5efb0e7)
+        ;
+
+        
+    
+    
+            var marker_e554ea2b73da7aa5fb2777e7b3a6873d = L.marker(
+                [38.709939, -9.136406],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_fd9252c523efb7132aaa40911e97782d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_e554ea2b73da7aa5fb2777e7b3a6873d.setIcon(icon_fd9252c523efb7132aaa40911e97782d);
+        
+    
+        var popup_bd201c9665f3e2b27e0146a82d9acde6 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_a96347ce88b87085d6e6e2852523aeeb = $(`<div id="html_a96347ce88b87085d6e6e2852523aeeb" style="width: 100.0%; height: 100.0%;">Prata Guest House</div>`)[0];
+                popup_bd201c9665f3e2b27e0146a82d9acde6.setContent(html_a96347ce88b87085d6e6e2852523aeeb);
+            
+        
+
+        marker_e554ea2b73da7aa5fb2777e7b3a6873d.bindPopup(popup_bd201c9665f3e2b27e0146a82d9acde6)
+        ;
+
+        
+    
+    
+            var marker_dc62057a9fc767f311efdc2913255508 = L.marker(
+                [38.713198, -9.137939],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_519f25c023bad014cf700533173a2a2f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_dc62057a9fc767f311efdc2913255508.setIcon(icon_519f25c023bad014cf700533173a2a2f);
+        
+    
+        var popup_205928c123028a85d9c52a3818532be3 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_b56dbeb594355dc11f1d7fa1f2300554 = $(`<div id="html_b56dbeb594355dc11f1d7fa1f2300554" style="width: 100.0%; height: 100.0%;">Confeitaria Nacional</div>`)[0];
+                popup_205928c123028a85d9c52a3818532be3.setContent(html_b56dbeb594355dc11f1d7fa1f2300554);
+            
+        
+
+        marker_dc62057a9fc767f311efdc2913255508.bindPopup(popup_205928c123028a85d9c52a3818532be3)
+        ;
+
+        
+    
+    
+            var marker_bdfa9f348e6cc3b11058611b0ca6f670 = L.marker(
+                [38.710143, -9.13604],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_7a5cdb1e21307ed212acd9f69eaef5d6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_bdfa9f348e6cc3b11058611b0ca6f670.setIcon(icon_7a5cdb1e21307ed212acd9f69eaef5d6);
+        
+    
+        var popup_49f72e67a4855407ab4662db2637c84c = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_f510480d3ea3d8086799035b309444fd = $(`<div id="html_f510480d3ea3d8086799035b309444fd" style="width: 100.0%; height: 100.0%;">Lisbon By Beetle</div>`)[0];
+                popup_49f72e67a4855407ab4662db2637c84c.setContent(html_f510480d3ea3d8086799035b309444fd);
+            
+        
+
+        marker_bdfa9f348e6cc3b11058611b0ca6f670.bindPopup(popup_49f72e67a4855407ab4662db2637c84c)
+        ;
+
+        
+    
+    
+            var marker_4c4dc8c53b9a9c30b9df3cca3ecad0ce = L.marker(
+                [38.710422, -9.13542],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_f340fb01649a684f20da42513e913b93 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_4c4dc8c53b9a9c30b9df3cca3ecad0ce.setIcon(icon_f340fb01649a684f20da42513e913b93);
+        
+    
+        var popup_347d12c6ec2510295f1bfc8693077f49 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_bafa2a71adcb92a4227d8fe7b22d5eba = $(`<div id="html_bafa2a71adcb92a4227d8fe7b22d5eba" style="width: 100.0%; height: 100.0%;">Madalena Orquídea Living</div>`)[0];
+                popup_347d12c6ec2510295f1bfc8693077f49.setContent(html_bafa2a71adcb92a4227d8fe7b22d5eba);
+            
+        
+
+        marker_4c4dc8c53b9a9c30b9df3cca3ecad0ce.bindPopup(popup_347d12c6ec2510295f1bfc8693077f49)
+        ;
+
+        
+    
+    
+            var marker_bca61c8a81b1127cb5ec4c7b038bbcfb = L.marker(
+                [38.711399, -9.136534],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_826b016996ea6bb299c9cb18d0257cf0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_bca61c8a81b1127cb5ec4c7b038bbcfb.setIcon(icon_826b016996ea6bb299c9cb18d0257cf0);
+        
+    
+        var popup_badc8d2e3c0619423c45b981f0729600 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_7e3ed1a9242a566b0b329e3aec325c40 = $(`<div id="html_7e3ed1a9242a566b0b329e3aec325c40" style="width: 100.0%; height: 100.0%;">The Coffee</div>`)[0];
+                popup_badc8d2e3c0619423c45b981f0729600.setContent(html_7e3ed1a9242a566b0b329e3aec325c40);
+            
+        
+
+        marker_bca61c8a81b1127cb5ec4c7b038bbcfb.bindPopup(popup_badc8d2e3c0619423c45b981f0729600)
+        ;
+
+        
+    
+    
+            var marker_8c313109ba43fdca4a38c7d938ffecce = L.marker(
+                [38.711856, -9.138283],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_daab3e332fd18f481479ad8c5a97439a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_8c313109ba43fdca4a38c7d938ffecce.setIcon(icon_daab3e332fd18f481479ad8c5a97439a);
+        
+    
+        var popup_ec809c11d42167e21b7b43a9354e7af3 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_cf16691f9bb01f77d787c938b6a5b67f = $(`<div id="html_cf16691f9bb01f77d787c938b6a5b67f" style="width: 100.0%; height: 100.0%;">A Nata De Lisboa</div>`)[0];
+                popup_ec809c11d42167e21b7b43a9354e7af3.setContent(html_cf16691f9bb01f77d787c938b6a5b67f);
+            
+        
+
+        marker_8c313109ba43fdca4a38c7d938ffecce.bindPopup(popup_ec809c11d42167e21b7b43a9354e7af3)
+        ;
+
+        
+    
+    
+            var marker_d340a419fcc2454238dc09813d9bb6ab = L.marker(
+                [38.712589, -9.138571],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_46dfd2e16cb77affc2f6c5826f0996d6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_d340a419fcc2454238dc09813d9bb6ab.setIcon(icon_46dfd2e16cb77affc2f6c5826f0996d6);
+        
+    
+        var popup_e2e979263f2f82cf1331ed48126bfec0 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_618d93ff0fe684a88df8e4e1cd9c92c5 = $(`<div id="html_618d93ff0fe684a88df8e4e1cd9c92c5" style="width: 100.0%; height: 100.0%;">Casa Brasileira</div>`)[0];
+                popup_e2e979263f2f82cf1331ed48126bfec0.setContent(html_618d93ff0fe684a88df8e4e1cd9c92c5);
+            
+        
+
+        marker_d340a419fcc2454238dc09813d9bb6ab.bindPopup(popup_e2e979263f2f82cf1331ed48126bfec0)
+        ;
+
+        
+    
+    
+            var marker_91b3a8bc02094bc092c5914bb315b42f = L.marker(
+                [38.71159, -9.138779],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_6ffe4cbe9f4c5a904ea5e2be391b3d4d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_91b3a8bc02094bc092c5914bb315b42f.setIcon(icon_6ffe4cbe9f4c5a904ea5e2be391b3d4d);
+        
+    
+        var popup_b35a35667aa2c0c92ac3db1522a30650 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_4251f03e7de5b72a07650fd33a4056f5 = $(`<div id="html_4251f03e7de5b72a07650fd33a4056f5" style="width: 100.0%; height: 100.0%;">Granier</div>`)[0];
+                popup_b35a35667aa2c0c92ac3db1522a30650.setContent(html_4251f03e7de5b72a07650fd33a4056f5);
+            
+        
+
+        marker_91b3a8bc02094bc092c5914bb315b42f.bindPopup(popup_b35a35667aa2c0c92ac3db1522a30650)
+        ;
+
+        
+    
+    
+            var marker_476cb9dcd6b588204e1e753bf7293d8d = L.marker(
+                [38.709954, -9.136206],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_7834b023db8916c0ba8fc0c8f489889c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_476cb9dcd6b588204e1e753bf7293d8d.setIcon(icon_7834b023db8916c0ba8fc0c8f489889c);
+        
+    
+        var popup_536b85e1f26992ecfb264593931ba85b = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_78280522842e34f51591806ce31d7e73 = $(`<div id="html_78280522842e34f51591806ce31d7e73" style="width: 100.0%; height: 100.0%;">Benedita Bakery & Breakfast</div>`)[0];
+                popup_536b85e1f26992ecfb264593931ba85b.setContent(html_78280522842e34f51591806ce31d7e73);
+            
+        
+
+        marker_476cb9dcd6b588204e1e753bf7293d8d.bindPopup(popup_536b85e1f26992ecfb264593931ba85b)
+        ;
+
+        
+    
+    
+            var marker_070c140dadc1a8292ecba1d8a8c26424 = L.marker(
+                [38.713192, -9.137937],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_95ba4de73014b56c2b02297fdda62656 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_070c140dadc1a8292ecba1d8a8c26424.setIcon(icon_95ba4de73014b56c2b02297fdda62656);
+        
+    
+        var popup_ac33a6842b4370474015dee237d84267 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_1c7979fc3f915e96abf0dccba03540a3 = $(`<div id="html_1c7979fc3f915e96abf0dccba03540a3" style="width: 100.0%; height: 100.0%;">Confeitaria Nacional</div>`)[0];
+                popup_ac33a6842b4370474015dee237d84267.setContent(html_1c7979fc3f915e96abf0dccba03540a3);
+            
+        
+
+        marker_070c140dadc1a8292ecba1d8a8c26424.bindPopup(popup_ac33a6842b4370474015dee237d84267)
+        ;
+
+        
+    
+    
+            var marker_21cd4e905c41882b499fdc181ec9f6a4 = L.marker(
+                [38.709293, -9.137264],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_7834ebeb6124a4c9d6720a65e28d651d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_21cd4e905c41882b499fdc181ec9f6a4.setIcon(icon_7834ebeb6124a4c9d6720a65e28d651d);
+        
+    
+        var popup_649cd9b7ddbc474135605822a62bea6f = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_d7aa9c21335487f9bfcce0f032710139 = $(`<div id="html_d7aa9c21335487f9bfcce0f032710139" style="width: 100.0%; height: 100.0%;">Chez Croissant</div>`)[0];
+                popup_649cd9b7ddbc474135605822a62bea6f.setContent(html_d7aa9c21335487f9bfcce0f032710139);
+            
+        
+
+        marker_21cd4e905c41882b499fdc181ec9f6a4.bindPopup(popup_649cd9b7ddbc474135605822a62bea6f)
+        ;
+
+        
+    
+    
+            var marker_fcbac5d1c9c78dd779238b785ff7e27b = L.marker(
+                [38.712149, -9.138834],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_52111d4e9e920aa774c1684893914082 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_fcbac5d1c9c78dd779238b785ff7e27b.setIcon(icon_52111d4e9e920aa774c1684893914082);
+        
+    
+        var popup_ad957b72dbccd0ef71433510fa6a07d4 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_6ab7c89a55e75effd06c40a1bf6ad03e = $(`<div id="html_6ab7c89a55e75effd06c40a1bf6ad03e" style="width: 100.0%; height: 100.0%;">Nat'Elier</div>`)[0];
+                popup_ad957b72dbccd0ef71433510fa6a07d4.setContent(html_6ab7c89a55e75effd06c40a1bf6ad03e);
+            
+        
+
+        marker_fcbac5d1c9c78dd779238b785ff7e27b.bindPopup(popup_ad957b72dbccd0ef71433510fa6a07d4)
+        ;
+
+        
+    
+    
+            var marker_f680f23946ba86676dba10c33c0295f4 = L.marker(
+                [38.711449, -9.138187],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_dc5eee42d4fdc4ad36bda6caca0671c4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_f680f23946ba86676dba10c33c0295f4.setIcon(icon_dc5eee42d4fdc4ad36bda6caca0671c4);
+        
+    
+        var popup_01263d94db5dbefe0fa7db372526de0d = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_5d4d2520ab6e1d31ffaf7cf5547ac633 = $(`<div id="html_5d4d2520ab6e1d31ffaf7cf5547ac633" style="width: 100.0%; height: 100.0%;">Ferrary</div>`)[0];
+                popup_01263d94db5dbefe0fa7db372526de0d.setContent(html_5d4d2520ab6e1d31ffaf7cf5547ac633);
+            
+        
+
+        marker_f680f23946ba86676dba10c33c0295f4.bindPopup(popup_01263d94db5dbefe0fa7db372526de0d)
+        ;
+
+        
+    
+    
+            var marker_7649ed21e704d61c60693d18a89f654b = L.marker(
+                [38.71231, -9.137355],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_9a86de98149fc234f6cc33c3b76e29ed = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_7649ed21e704d61c60693d18a89f654b.setIcon(icon_9a86de98149fc234f6cc33c3b76e29ed);
+        
+    
+        var popup_6f7caa19a6a18baedb61bd1dc219d4df = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_285a0c9428bcc7a1c2f402fd8de623ed = $(`<div id="html_285a0c9428bcc7a1c2f402fd8de623ed" style="width: 100.0%; height: 100.0%;">Pastelaria Restinga</div>`)[0];
+                popup_6f7caa19a6a18baedb61bd1dc219d4df.setContent(html_285a0c9428bcc7a1c2f402fd8de623ed);
+            
+        
+
+        marker_7649ed21e704d61c60693d18a89f654b.bindPopup(popup_6f7caa19a6a18baedb61bd1dc219d4df)
+        ;
+
+        
+    
+    
+            var marker_d927fbfae616b8194c22a1551e98f798 = L.marker(
+                [38.708963, -9.137133],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_5dcbaf3fa2d03fdcc46ff855f4dd5e6d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_d927fbfae616b8194c22a1551e98f798.setIcon(icon_5dcbaf3fa2d03fdcc46ff855f4dd5e6d);
+        
+    
+        var popup_fd5ad3b4a7079b29dc1ca485c955fe44 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_d3776ffc16ebfbf8902136b1748113bf = $(`<div id="html_d3776ffc16ebfbf8902136b1748113bf" style="width: 100.0%; height: 100.0%;">Royal Vessel Bar</div>`)[0];
+                popup_fd5ad3b4a7079b29dc1ca485c955fe44.setContent(html_d3776ffc16ebfbf8902136b1748113bf);
+            
+        
+
+        marker_d927fbfae616b8194c22a1551e98f798.bindPopup(popup_fd5ad3b4a7079b29dc1ca485c955fe44)
+        ;
+
+        
+    
+    
+            var marker_46b579c6350a45765ea74bded44c9f75 = L.marker(
+                [38.711482, -9.138131],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_7d7468a7ceeae1f70a8b8c610378a5ea = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_46b579c6350a45765ea74bded44c9f75.setIcon(icon_7d7468a7ceeae1f70a8b8c610378a5ea);
+        
+    
+        var popup_bb97bc81696eebe4f77bbe9d9467456d = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_628e8180233cff35cd2ab12fd42bc540 = $(`<div id="html_628e8180233cff35cd2ab12fd42bc540" style="width: 100.0%; height: 100.0%;">Manteigaria</div>`)[0];
+                popup_bb97bc81696eebe4f77bbe9d9467456d.setContent(html_628e8180233cff35cd2ab12fd42bc540);
+            
+        
+
+        marker_46b579c6350a45765ea74bded44c9f75.bindPopup(popup_bb97bc81696eebe4f77bbe9d9467456d)
+        ;
+
+        
+    
+    
+            var marker_49152dc2637bf26fecaa09f39ca8c955 = L.marker(
+                [38.710844, -9.136776],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_c96aba20e8bd71e7010ec9a79ffe437e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_49152dc2637bf26fecaa09f39ca8c955.setIcon(icon_c96aba20e8bd71e7010ec9a79ffe437e);
+        
+    
+        var popup_c2d70bb10aa96c87d5f03fbb4bb7e3b7 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_ac9457f6def3edc88115c553315763b7 = $(`<div id="html_ac9457f6def3edc88115c553315763b7" style="width: 100.0%; height: 100.0%;">A Padaria Portuguesa</div>`)[0];
+                popup_c2d70bb10aa96c87d5f03fbb4bb7e3b7.setContent(html_ac9457f6def3edc88115c553315763b7);
+            
+        
+
+        marker_49152dc2637bf26fecaa09f39ca8c955.bindPopup(popup_c2d70bb10aa96c87d5f03fbb4bb7e3b7)
+        ;
+
+        
+    
+    
+            var marker_fee99341d4db767b013759694bb3f4c6 = L.marker(
+                [38.711046, -9.138857],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_748cef98bccf4f1f5b1c6f89be3859ed = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_fee99341d4db767b013759694bb3f4c6.setIcon(icon_748cef98bccf4f1f5b1c6f89be3859ed);
+        
+    
+        var popup_fddc26af390e2d2f8cd2634bf3656861 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_86a6e0afa35f2cc837c4e0673c06f351 = $(`<div id="html_86a6e0afa35f2cc837c4e0673c06f351" style="width: 100.0%; height: 100.0%;">Pastelaria Cafouro</div>`)[0];
+                popup_fddc26af390e2d2f8cd2634bf3656861.setContent(html_86a6e0afa35f2cc837c4e0673c06f351);
+            
+        
+
+        marker_fee99341d4db767b013759694bb3f4c6.bindPopup(popup_fddc26af390e2d2f8cd2634bf3656861)
+        ;
+
+        
+    
+    
+            var marker_d11d67c686be3720ad1f5207af7d8a2f = L.marker(
+                [38.709409, -9.137314],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_fee72b703207e494aea13b79e41cc27e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_d11d67c686be3720ad1f5207af7d8a2f.setIcon(icon_fee72b703207e494aea13b79e41cc27e);
+        
+    
+        var popup_5a75ccfcbc2b01e03bd279d2d126fa76 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_1a95f493f68f0467c2b03676c043bf2a = $(`<div id="html_1a95f493f68f0467c2b03676c043bf2a" style="width: 100.0%; height: 100.0%;">Amo Brewery</div>`)[0];
+                popup_5a75ccfcbc2b01e03bd279d2d126fa76.setContent(html_1a95f493f68f0467c2b03676c043bf2a);
+            
+        
+
+        marker_d11d67c686be3720ad1f5207af7d8a2f.bindPopup(popup_5a75ccfcbc2b01e03bd279d2d126fa76)
+        ;
+
+        
+    
+    
+            var marker_fa71f22b27f0179a477a68aaa868ff37 = L.marker(
+                [38.710817, -9.13762],
+                {
+  "draggable": null,
+  "autoPan": null,
+}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+    
+            var icon_cb0e36b389bb9a1e5ab308a205d1611d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_fa71f22b27f0179a477a68aaa868ff37.setIcon(icon_cb0e36b389bb9a1e5ab308a205d1611d);
+        
+    
+        var popup_e22a524efdbea254f54b7f87b53f0dc2 = L.popup({
+  "maxWidth": "100%",
+  "autoClose": null,
+  "closeOnClick": null,
+});
+
+        
+            
+                var html_3190a15466c6f397dacd06ace1768ecc = $(`<div id="html_3190a15466c6f397dacd06ace1768ecc" style="width: 100.0%; height: 100.0%;">Paul - Rua Augusta</div>`)[0];
+                popup_e22a524efdbea254f54b7f87b53f0dc2.setContent(html_3190a15466c6f397dacd06ace1768ecc);
+            
+        
+
+        marker_fa71f22b27f0179a477a68aaa868ff37.bindPopup(popup_e22a524efdbea254f54b7f87b53f0dc2)
+        ;
+
+        
+    
+    
+            var poly_line_13d18100c4aabe7cb879708f67857873 = L.polyline(
+                [[38.71287678540239, -9.139450673684593], [38.71322090469465, -9.138238992874848], [38.71350469902515, -9.13710643598273], [38.71360250457482, -9.136562297470109], [38.712884758241074, -9.13624884305753], [38.71222525132527, -9.136030236977716], [38.71154050683134, -9.135742198935134], [38.71103472083931, -9.13555518494408], [38.71050904287165, -9.13530225520944], [38.70984454842315, -9.135067879679012], [38.70921858790771, -9.134793551466885], [38.70869664192827, -9.134575963524668], [38.70868443061414, -9.135341758873125], [38.70842773036304, -9.136336120169346], [38.70824433188412, -9.137072436651152], [38.70803175311161, -9.138032455000229], [38.70882165424294, -9.138330914451132], [38.70959639657519, -9.138609347148249], [38.71033457321727, -9.138938325596769], [38.71118320250668, -9.139214553660594], [38.71171133968042, -9.13930148376454], [38.71235459899907, -9.13946467816092]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 10}
+            ).addTo(map_08b2c0b376720b893e8b9bcce6b7b0ea);
+        
+</script>
+</html>
