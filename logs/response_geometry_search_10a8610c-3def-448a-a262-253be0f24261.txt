@@ -1,0 +1,1024 @@
+{
+    "summary": {
+        "query": "",
+        "queryType": "NON_NEAR",
+        "queryTime": 15,
+        "numResults": 14,
+        "offset": 0,
+        "totalResults": 14,
+        "fuzzyLevel": 1
+    },
+    "results": [
+        {
+            "type": "POI",
+            "id": "PcacjD8J5vOC5nRBHSj9Jg",
+            "score": 1.0120717287,
+            "info": "search:ta:620006000334189-PT",
+            "poi": {
+                "name": "Casa Brasileira",
+                "phone": "+351 21 346 9713",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "url": "www.restaurantesemlisboa.com/",
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "251",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 251, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712589,
+                "lon": -9.138571
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71349,
+                    "lon": -9.13972
+                },
+                "btmRightPoint": {
+                    "lat": 38.71169,
+                    "lon": -9.13742
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71237,
+                        "lon": -9.13837
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "zXX9S9ZdpNgaiRNLxfOPOg",
+            "score": 1.0120145082,
+            "info": "search:ta:620006000648312-PT",
+            "poi": {
+                "name": "Granier",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Assunção",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-043",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Assunção, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.71159,
+                "lon": -9.138779
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71249,
+                    "lon": -9.13993
+                },
+                "btmRightPoint": {
+                    "lat": 38.71069,
+                    "lon": -9.13763
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.7115,
+                        "lon": -9.13875
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "EsWaP1uZ0t608U2fMvSRnA",
+            "score": 1.0120104551,
+            "info": "search:ta:620006000562084-PT",
+            "poi": {
+                "name": "Benedita Bakery & Breakfast",
+                "phone": "+351 929 442 959",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "url": "www.beneditabakery.com/",
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Conceição",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-154",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Conceição, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709954,
+                "lon": -9.136206
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71085,
+                    "lon": -9.13736
+                },
+                "btmRightPoint": {
+                    "lat": 38.70905,
+                    "lon": -9.13505
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70987,
+                        "lon": -9.13616
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "nEIElwsDrBVZNW7Sf4QZ_Q",
+            "score": 1.0120090246,
+            "info": "search:ta:620006000216708-PT",
+            "poi": {
+                "name": "Confeitaria Nacional",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "280",
+                "streetName": "Rua da Prata",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Prata 280, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.713192,
+                "lon": -9.137937
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71409,
+                    "lon": -9.13909
+                },
+                "btmRightPoint": {
+                    "lat": 38.71229,
+                    "lon": -9.13678
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71321,
+                        "lon": -9.13783
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "SZT6nFEzLdGIzRew1rwYyQ",
+            "score": 1.0120084286,
+            "info": "search:ta:620006000206701-PT",
+            "poi": {
+                "name": "Chez Croissant",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "url": "www.chezcroissant.pt",
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "41",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 41, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709293,
+                "lon": -9.137264
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71019,
+                    "lon": -9.13842
+                },
+                "btmRightPoint": {
+                    "lat": 38.70839,
+                    "lon": -9.13611
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70928,
+                        "lon": -9.13714
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "etGzuclLxDUzF2Stz7Jy5Q",
+            "score": 1.0120056868,
+            "info": "search:ta:620006000279477-PT",
+            "poi": {
+                "name": "Nat'Elier",
+                "phone": "+351 21 346 2470",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "url": "natelier.pt",
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "87",
+                "streetName": "Rua de Santa Justa",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de Santa Justa 87, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712149,
+                "lon": -9.138834
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71305,
+                    "lon": -9.13999
+                },
+                "btmRightPoint": {
+                    "lat": 38.71125,
+                    "lon": -9.13768
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71225,
+                        "lon": -9.13882
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "YUg5KNu9pgFSaQlDVQm8rg",
+            "score": 1.0120007992,
+            "info": "search:ta:620006000288181-PT",
+            "poi": {
+                "name": "Ferrary",
+                "phone": "+351 965 579 868",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "url": "www.restaurantesemlisboa.com/",
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "189",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 189, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711449,
+                "lon": -9.138187
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71235,
+                    "lon": -9.13934
+                },
+                "btmRightPoint": {
+                    "lat": 38.71055,
+                    "lon": -9.13703
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.7115,
+                        "lon": -9.13802
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "DjdNqvX4ToR6KVu4hUZlWA",
+            "score": 1.0119987726,
+            "info": "search:ta:620006000270665-PT",
+            "poi": {
+                "name": "Pastelaria Restinga",
+                "phone": "+351 21 322 3801",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "233",
+                "streetName": "Rua da Prata",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Prata 233, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.71231,
+                "lon": -9.137355
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71321,
+                    "lon": -9.13851
+                },
+                "btmRightPoint": {
+                    "lat": 38.71141,
+                    "lon": -9.1362
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71228,
+                        "lon": -9.13747
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "JJGEg0tjviLULpZlCooauA",
+            "score": 1.0119978189,
+            "info": "search:ta:620007000118038-PT",
+            "poi": {
+                "name": "Royal Vessel Bar",
+                "categorySet": [
+                    {
+                        "id": 7315039
+                    }
+                ],
+                "categories": [
+                    "pub food",
+                    "restaurant"
+                ],
+                "classifications": [
+                    {
+                        "code": "RESTAURANT",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "restaurant"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "pub food"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "23",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1150",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 23, 1150 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.708963,
+                "lon": -9.137133
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71219,
+                    "lon": -9.14127
+                },
+                "btmRightPoint": {
+                    "lat": 38.70574,
+                    "lon": -9.133
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71207,
+                        "lon": -9.13825
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "eD1E-KcmSRLvAjYm7jxg1A",
+            "score": 1.0119948387,
+            "info": "search:ta:620006000585208-PT",
+            "poi": {
+                "name": "Manteigaria",
+                "phone": "+351 21 347 0631",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "195",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 195, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711482,
+                "lon": -9.138131
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71238,
+                    "lon": -9.13928
+                },
+                "btmRightPoint": {
+                    "lat": 38.71058,
+                    "lon": -9.13698
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71151,
+                        "lon": -9.13802
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "IvzvZ1s1Qv5AyEzMXhO_bw",
+            "score": 1.0119941235,
+            "info": "search:ta:620006000418613-PT",
+            "poi": {
+                "name": "A Padaria Portuguesa",
+                "phone": "+351 961 828 041",
+                "brands": [
+                    {
+                        "name": "A Padaria Portuguesa"
+                    }
+                ],
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "url": "www.apadariaportuguesa.pt",
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "134",
+                "streetName": "Rua da Prata",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Prata 134, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710844,
+                "lon": -9.136776
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71174,
+                    "lon": -9.13793
+                },
+                "btmRightPoint": {
+                    "lat": 38.70994,
+                    "lon": -9.13562
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71083,
+                        "lon": -9.13689
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "i9B_oPtwRqV1YqHfQVhsHA",
+            "score": 1.0119918585,
+            "info": "search:ta:620006000571072-PT",
+            "poi": {
+                "name": "Pastelaria Cafouro",
+                "phone": "+351 21 342 1028",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "url": "www.restaurantesemlisboa.com/",
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua Áurea",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-061",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Áurea, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711046,
+                "lon": -9.138857
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71195,
+                    "lon": -9.14001
+                },
+                "btmRightPoint": {
+                    "lat": 38.71015,
+                    "lon": -9.1377
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71108,
+                        "lon": -9.13873
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "3suKguC4SasEG9knK8IofQ",
+            "score": 1.0119915009,
+            "info": "search:ta:620007000118094-PT",
+            "poi": {
+                "name": "Amo Brewery",
+                "categorySet": [
+                    {
+                        "id": 7315039
+                    }
+                ],
+                "categories": [
+                    "pub food",
+                    "restaurant"
+                ],
+                "classifications": [
+                    {
+                        "code": "RESTAURANT",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "restaurant"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "pub food"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "53",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1150",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 53, 1150 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709409,
+                "lon": -9.137314
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71217,
+                    "lon": -9.14085
+                },
+                "btmRightPoint": {
+                    "lat": 38.70665,
+                    "lon": -9.13378
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71207,
+                        "lon": -9.13825
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "6zqqObLYtWk3v4Er4jhS7g",
+            "score": 1.0119905472,
+            "info": "search:ta:620006000332380-PT",
+            "poi": {
+                "name": "Paul - Rua Augusta",
+                "phone": "+351 21 347 0200",
+                "categorySet": [
+                    {
+                        "id": 9361018
+                    }
+                ],
+                "url": "www.anapaulacarvalhophoto.com",
+                "categories": [
+                    "food drinks: bakers",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "food drinks: bakers"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "142",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 142, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710817,
+                "lon": -9.13762
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71172,
+                    "lon": -9.13877
+                },
+                "btmRightPoint": {
+                    "lat": 38.70992,
+                    "lon": -9.13647
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71079,
+                        "lon": -9.13773
+                    }
+                }
+            ]
+        }
+    ]
+}

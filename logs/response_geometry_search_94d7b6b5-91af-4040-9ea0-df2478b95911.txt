@@ -1,0 +1,4110 @@
+{
+    "summary": {
+        "query": "",
+        "queryType": "NON_NEAR",
+        "queryTime": 30,
+        "numResults": 57,
+        "offset": 0,
+        "totalResults": 57,
+        "fuzzyLevel": 1
+    },
+    "results": [
+        {
+            "type": "POI",
+            "id": "4IqiHUHMYhGLtImU-gnWPA",
+            "score": 1.0120658875,
+            "info": "search:ta:620006000036077-PT",
+            "poi": {
+                "name": "Starbucks Santa Justa",
+                "phone": "+351 937 000 000",
+                "brands": [
+                    {
+                        "name": "Starbucks"
+                    }
+                ],
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "www.starbucks.pt",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "79",
+                "streetName": "Rua de Santa Justa",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de Santa Justa 79, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712209,
+                "lon": -9.138603
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71311,
+                    "lon": -9.13976
+                },
+                "btmRightPoint": {
+                    "lat": 38.71131,
+                    "lon": -9.13745
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.7123,
+                        "lon": -9.13864
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "SCmUGdgisj0fMW57c7TckA",
+            "score": 1.0120466948,
+            "info": "search:ta:620007000116302-PT",
+            "poi": {
+                "name": "Copenhagen Coffee Lab",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua dos Douradores",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Douradores, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711541,
+                "lon": -9.136832
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71244,
+                    "lon": -9.13798
+                },
+                "btmRightPoint": {
+                    "lat": 38.71064,
+                    "lon": -9.13568
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71156,
+                        "lon": -9.13672
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "PP_cw1NUade1QkS7PBiZ1A",
+            "score": 1.0120465755,
+            "info": "search:ta:620006000086727-PT",
+            "poi": {
+                "name": "Portugal Ways Baixa Original Apartments",
+                "phone": "+351 911 999 010",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "www.portugalwaysbaixaoriginalapartments.spotportugal-pt.site/",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "55",
+                "streetName": "Rua da Vitória",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Vitória 55, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710869,
+                "lon": -9.13798
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71177,
+                    "lon": -9.13913
+                },
+                "btmRightPoint": {
+                    "lat": 38.70997,
+                    "lon": -9.13683
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71095,
+                        "lon": -9.13802
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "Qi8SIbFIX5C6PmlvQ740bA",
+            "score": 1.0120346546,
+            "info": "search:ta:620006000363849-PT",
+            "poi": {
+                "name": "Wonderland Cocktail Bar",
+                "phone": "+351 916 739 466",
+                "categorySet": [
+                    {
+                        "id": 9379004
+                    }
+                ],
+                "categories": [
+                    "bar",
+                    "nightlife"
+                ],
+                "classifications": [
+                    {
+                        "code": "NIGHTLIFE",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bar"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "nightlife"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "98",
+                "streetName": "Rua de Santa Justa",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de Santa Justa 98, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712214,
+                "lon": -9.139302
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71311,
+                    "lon": -9.14045
+                },
+                "btmRightPoint": {
+                    "lat": 38.71131,
+                    "lon": -9.13815
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71212,
+                        "lon": -9.13929
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "btySes16rp6uTUrCFP-kiw",
+            "score": 1.0120277405,
+            "info": "search:ta:620009004452621-PT",
+            "poi": {
+                "name": "Fragoleto",
+                "phone": "+351 21 347 9472",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "www.fragoleto.com",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Prata",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Prata, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709603,
+                "lon": -9.136527
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.7105,
+                    "lon": -9.13768
+                },
+                "btmRightPoint": {
+                    "lat": 38.7087,
+                    "lon": -9.13537
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70963,
+                        "lon": -9.13642
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "GcmsLU492i1FoxnpXspp9g",
+            "score": 1.0120255947,
+            "info": "search:ta:620007000114669-PT",
+            "poi": {
+                "name": "Apartments in Downtown",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "lisbondowntownapartment.com/",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Prata",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Prata, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710727,
+                "lon": -9.136972
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71163,
+                    "lon": -9.13812
+                },
+                "btmRightPoint": {
+                    "lat": 38.70983,
+                    "lon": -9.13582
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71075,
+                        "lon": -9.13686
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "s4kbexO1yWQyOD6v381-kw",
+            "score": 1.012021184,
+            "info": "search:ta:620006000109408-PT",
+            "poi": {
+                "name": "Santa Justa Prime Guesthouse",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "61",
+                "streetName": "Rua de Santa Justa",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de Santa Justa 61, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712329,
+                "lon": -9.138098
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71323,
+                    "lon": -9.13925
+                },
+                "btmRightPoint": {
+                    "lat": 38.71143,
+                    "lon": -9.13695
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71242,
+                        "lon": -9.13813
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "1ibVeGdLJ2RwgpHEZAFENA",
+            "score": 1.0120205879,
+            "info": "search:ta:620007000017512-PT",
+            "poi": {
+                "name": "Casa Chinesa Pastelaria Restaurante",
+                "phone": "+351 21 342 3680",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua Áurea",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-066",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Áurea, 1100 Lisboa (1100-066)",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712567,
+                "lon": -9.139167
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71347,
+                    "lon": -9.14032
+                },
+                "btmRightPoint": {
+                    "lat": 38.71167,
+                    "lon": -9.13801
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71253,
+                        "lon": -9.1393
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "CujBqrjXuzb5RZ3pDsprpw",
+            "score": 1.0120193958,
+            "info": "search:ta:620006000513177-PT",
+            "poi": {
+                "name": "Lxway Apartments Rua da Madalena",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Madalena",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Madalena, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710704,
+                "lon": -9.135531
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.7116,
+                    "lon": -9.13668
+                },
+                "btmRightPoint": {
+                    "lat": 38.7098,
+                    "lon": -9.13438
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71073,
+                        "lon": -9.13542
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "lugJz0SUnyhMK7s43Hj-OA",
+            "score": 1.0120186806,
+            "info": "search:ta:620007000060690-PT",
+            "poi": {
+                "name": "Nectar Bed & Breakfast",
+                "phone": "+351 914 684 471",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "100",
+                "streetName": "Rua dos Douradores",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Douradores 100, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.71058,
+                "lon": -9.13635
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71148,
+                    "lon": -9.1375
+                },
+                "btmRightPoint": {
+                    "lat": 38.70968,
+                    "lon": -9.1352
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71129,
+                        "lon": -9.13661
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "6kWOucJvx61jRBychh0UZQ",
+            "score": 1.0120154619,
+            "info": "search:ta:620007000089989-PT",
+            "poi": {
+                "name": "Myiced Baixa Pombalina",
+                "phone": "+351 919 382 494",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Assunção",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-044",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Assunção, 1100 Lisboa (1100-044)",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711878,
+                "lon": -9.137606
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71278,
+                    "lon": -9.13876
+                },
+                "btmRightPoint": {
+                    "lat": 38.71098,
+                    "lon": -9.13645
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71179,
+                        "lon": -9.13757
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "LhwgfOBbzoAQbHo7MF2IOA",
+            "score": 1.012013793,
+            "info": "search:ta:620006000509858-PT",
+            "poi": {
+                "name": "New Aljubarrota Guest House",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Assunção",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-042",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Assunção, 1100 Lisboa (1100-042)",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711646,
+                "lon": -9.137775
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71255,
+                    "lon": -9.13893
+                },
+                "btmRightPoint": {
+                    "lat": 38.71075,
+                    "lon": -9.13662
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71173,
+                        "lon": -9.13781
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "6MZbnkYFiAFMivlaUBJsEQ",
+            "score": 1.0120110512,
+            "info": "search:ta:620007000088748-PT",
+            "poi": {
+                "name": "Coffe House",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "167",
+                "streetName": "Rua dos Fanqueiros",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Fanqueiros 167, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711593,
+                "lon": -9.136433
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71249,
+                    "lon": -9.13759
+                },
+                "btmRightPoint": {
+                    "lat": 38.71069,
+                    "lon": -9.13528
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71162,
+                        "lon": -9.13632
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "D82M8AEzAcX8nCO4a-PCUg",
+            "score": 1.0120105743,
+            "info": "search:ta:620007000096775-PT",
+            "poi": {
+                "name": "Ouro Grand By Level Residences",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "6",
+                "streetName": "Rua do Crucifixo",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua do Crucifixo 6, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.70943,
+                "lon": -9.13842
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71033,
+                    "lon": -9.13957
+                },
+                "btmRightPoint": {
+                    "lat": 38.70853,
+                    "lon": -9.13727
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.7094,
+                        "lon": -9.13853
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "AU88rCwo7dCgCuvwb9qHrg",
+            "score": 1.0120098591,
+            "info": "search:ta:620007000096817-PT",
+            "poi": {
+                "name": "Correiros Deluxe Apartments, Rentexperience",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "28",
+                "streetName": "Rua dos Correeiros",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Correeiros 28, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710085,
+                "lon": -9.136907
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71098,
+                    "lon": -9.13806
+                },
+                "btmRightPoint": {
+                    "lat": 38.70919,
+                    "lon": -9.13575
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71006,
+                        "lon": -9.13702
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "bc5pcjbj_eP66Eqjk0QToQ",
+            "score": 1.0120091438,
+            "info": "search:ta:620007000114937-PT",
+            "poi": {
+                "name": "Lx4u Apartments Baixa Douradores",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "www.lisbonforyou.com/",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "164",
+                "streetName": "Rua dos Douradores",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Douradores 164, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.71238,
+                "lon": -9.136854
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71328,
+                    "lon": -9.13801
+                },
+                "btmRightPoint": {
+                    "lat": 38.71148,
+                    "lon": -9.1357
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71234,
+                        "lon": -9.13702
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "ewBt8oqEoNuYKOqC2NcXWA",
+            "score": 1.0120077133,
+            "info": "search:ta:620006000599888-PT",
+            "poi": {
+                "name": "Bubble Time Baixa Chiado",
+                "phone": "+351 21 886 0559",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua Da Prata N160",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Da Prata N160, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711423,
+                "lon": -9.136998
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71232,
+                    "lon": -9.13815
+                },
+                "btmRightPoint": {
+                    "lat": 38.71052,
+                    "lon": -9.13585
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.7114,
+                        "lon": -9.13711
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "XTy0u1iy9kGvD2X6SkUgTg",
+            "score": 1.012006402,
+            "info": "search:ta:620007000096782-PT",
+            "poi": {
+                "name": "Downtown Design Apartments-Rentexperience",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "287",
+                "streetName": "Rua da Madalena",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Madalena 287, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.713414,
+                "lon": -9.136629
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71431,
+                    "lon": -9.13778
+                },
+                "btmRightPoint": {
+                    "lat": 38.71251,
+                    "lon": -9.13548
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71345,
+                        "lon": -9.13652
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "LRYOoG8vk4CFoz9hDw65PA",
+            "score": 1.0120061636,
+            "info": "search:ta:620006000508146-PT",
+            "poi": {
+                "name": "Baixa Collection Lisbon By Guestready",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua do Crucifixo",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua do Crucifixo, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709526,
+                "lon": -9.138397
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71043,
+                    "lon": -9.13955
+                },
+                "btmRightPoint": {
+                    "lat": 38.70863,
+                    "lon": -9.13724
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70948,
+                        "lon": -9.13856
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "z4xLP3ZIxCb-TOsMq7Y8aQ",
+            "score": 1.0120059252,
+            "info": "search:ta:620006000508147-PT",
+            "poi": {
+                "name": "Santa Justa Suites By Homing",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua de Santa Justa",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de Santa Justa, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712147,
+                "lon": -9.138845
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71305,
+                    "lon": -9.14
+                },
+                "btmRightPoint": {
+                    "lat": 38.71125,
+                    "lon": -9.13769
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71223,
+                        "lon": -9.13888
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "78bQ061LdzVNPmIRNILPGQ",
+            "score": 1.0120031834,
+            "info": "search:ta:620009004654330-PT",
+            "poi": {
+                "name": "Unique Design Apartments",
+                "phone": "+351 934 852 578",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "www.uniqueapartments.pt",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua de São Julião",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-526",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de São Julião, 1100 Lisboa (1100-526)",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709346,
+                "lon": -9.137044
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71025,
+                    "lon": -9.1382
+                },
+                "btmRightPoint": {
+                    "lat": 38.70845,
+                    "lon": -9.13589
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70925,
+                        "lon": -9.13703
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "VBq23jhs84l6GMHxLGsOCg",
+            "score": 1.0120022297,
+            "info": "search:ta:620007000097852-PT",
+            "poi": {
+                "name": "Portologia Lisboa, La Maison Des Porto",
+                "phone": "+351 21 017 9313",
+                "categorySet": [
+                    {
+                        "id": 9379004
+                    }
+                ],
+                "url": "portologia.com",
+                "categories": [
+                    "bar",
+                    "nightlife"
+                ],
+                "classifications": [
+                    {
+                        "code": "NIGHTLIFE",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bar"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "nightlife"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua de São Julião",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-524",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de São Julião, 1100 Lisboa (1100-524)",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.70969,
+                "lon": -9.135253
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71059,
+                    "lon": -9.13641
+                },
+                "btmRightPoint": {
+                    "lat": 38.70879,
+                    "lon": -9.1341
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70969,
+                        "lon": -9.13525
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "RHpT5guA5M5MYn_sov5LTg",
+            "score": 1.0120022297,
+            "info": "search:ta:620007000114673-PT",
+            "poi": {
+                "name": "Lisbon Charming Apartments Baixa",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "123",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 123, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.71048,
+                "lon": -9.13774
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71138,
+                    "lon": -9.13889
+                },
+                "btmRightPoint": {
+                    "lat": 38.70958,
+                    "lon": -9.13659
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71051,
+                        "lon": -9.13762
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "zMUCJG1aFfX1wXdBDpj1Iw",
+            "score": 1.0120021105,
+            "info": "search:ta:620007000087879-PT",
+            "poi": {
+                "name": "Alice Gelato Da Meraviglie",
+                "phone": "+351 918 464 383",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "69",
+                "streetName": "Rua da Madalena",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Madalena 69, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709891,
+                "lon": -9.135217
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71079,
+                    "lon": -9.13637
+                },
+                "btmRightPoint": {
+                    "lat": 38.70899,
+                    "lon": -9.13406
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70993,
+                        "lon": -9.13509
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "hC-N1rzNCWVTQc8SUwSVFQ",
+            "score": 1.0120016336,
+            "info": "search:ta:620006000599884-PT",
+            "poi": {
+                "name": "Bizzarro",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua de São Julião",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1149",
+                "extendedPostalCode": "1149-030",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de São Julião, 1149 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709645,
+                "lon": -9.135806
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71054,
+                    "lon": -9.13696
+                },
+                "btmRightPoint": {
+                    "lat": 38.70875,
+                    "lon": -9.13465
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70956,
+                        "lon": -9.13577
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "ZiusQ4FuNHyOhRnvZ0b-DA",
+            "score": 1.0120016336,
+            "info": "search:ta:620007000118400-PT",
+            "poi": {
+                "name": "Bom Conforto",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "bomconforto.com.sapo.pt/",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua dos Douradores",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Douradores, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711648,
+                "lon": -9.136874
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71255,
+                    "lon": -9.13803
+                },
+                "btmRightPoint": {
+                    "lat": 38.71075,
+                    "lon": -9.13572
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71167,
+                        "lon": -9.13676
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "ONFdNZRvJff1TOHJixYxGA",
+            "score": 1.0120013952,
+            "info": "search:ta:620007000061023-PT",
+            "poi": {
+                "name": "House Of Silver",
+                "phone": "+351 918 453 750",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "121",
+                "streetName": "Rua da Prata",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Prata 121, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710588,
+                "lon": -9.13692
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71149,
+                    "lon": -9.13807
+                },
+                "btmRightPoint": {
+                    "lat": 38.70969,
+                    "lon": -9.13577
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71061,
+                        "lon": -9.13681
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "iJ6v2L2lrACzjpVIqTB7SA",
+            "score": 1.0120000839,
+            "info": "search:ta:620006000028595-PT",
+            "poi": {
+                "name": "B in B Lisbon Downtown Suites",
+                "phone": "+351 936 493 007",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "www.binblisbonsuites.pt",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "126",
+                "streetName": "Rua dos Douradores",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Douradores 126, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711679,
+                "lon": -9.136887
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71258,
+                    "lon": -9.13804
+                },
+                "btmRightPoint": {
+                    "lat": 38.71078,
+                    "lon": -9.13573
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71171,
+                        "lon": -9.13678
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "1VfQ1-82O0ON47yrfkDHjg",
+            "score": 1.0119998455,
+            "info": "search:ta:620006000599886-PT",
+            "poi": {
+                "name": "Nataria Nacional",
+                "phone": "+351 21 018 7125",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "nataria.pt",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua Áurea",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-062",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Áurea, 1100 Lisboa (1100-062)",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.71222,
+                "lon": -9.139297
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71312,
+                    "lon": -9.14045
+                },
+                "btmRightPoint": {
+                    "lat": 38.71132,
+                    "lon": -9.13814
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71225,
+                        "lon": -9.13919
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "B4yUQiAKP_Ud940c8vYlMg",
+            "score": 1.0119997263,
+            "info": "search:ta:620006000508695-PT",
+            "poi": {
+                "name": "Cosy Baixa Studio",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua Áurea",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-064",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Áurea, 1100 Lisboa (1100-064)",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711182,
+                "lon": -9.138631
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71208,
+                    "lon": -9.13978
+                },
+                "btmRightPoint": {
+                    "lat": 38.71028,
+                    "lon": -9.13748
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71115,
+                        "lon": -9.13876
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "EKkRuKrs3tZ_X8kUcJqzRw",
+            "score": 1.0119985342,
+            "info": "search:ta:620006000599885-PT",
+            "poi": {
+                "name": "Benedita Bakery &Amp; Breakfast",
+                "phone": "+351 929 442 959",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Conceição",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-154",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Conceição, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709948,
+                "lon": -9.136229
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71085,
+                    "lon": -9.13738
+                },
+                "btmRightPoint": {
+                    "lat": 38.70905,
+                    "lon": -9.13508
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70986,
+                        "lon": -9.1362
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "MGAy7qZygbQheoj-wqbDMQ",
+            "score": 1.0119981766,
+            "info": "search:ta:620006000363840-PT",
+            "poi": {
+                "name": "La Chinesa",
+                "categorySet": [
+                    {
+                        "id": 9379004
+                    }
+                ],
+                "categories": [
+                    "bar",
+                    "nightlife"
+                ],
+                "classifications": [
+                    {
+                        "code": "NIGHTLIFE",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bar"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "nightlife"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "215",
+                "streetName": "Rua dos Sapateiros",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Sapateiros 215, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712482,
+                "lon": -9.138969
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71338,
+                    "lon": -9.14012
+                },
+                "btmRightPoint": {
+                    "lat": 38.71158,
+                    "lon": -9.13782
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71251,
+                        "lon": -9.13886
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "BL3n6MoaYerykJUwi34HSQ",
+            "score": 1.0119980574,
+            "info": "search:ta:620007000103751-PT",
+            "poi": {
+                "name": "Gelato Therapy",
+                "phone": "+351 21 886 0831",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "83",
+                "streetName": "Rua da Madalena",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Madalena 83, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709992,
+                "lon": -9.13524
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71089,
+                    "lon": -9.13639
+                },
+                "btmRightPoint": {
+                    "lat": 38.70909,
+                    "lon": -9.13409
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.7101,
+                        "lon": -9.13517
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "cEUYaYMv6I69W9jYxzqRGw",
+            "score": 1.0119978189,
+            "info": "search:ta:620007000117637-PT",
+            "poi": {
+                "name": "Honua Lisbon Food & Drinks",
+                "phone": "+351 21 886 1079",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "honualisbon.com/",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "14",
+                "streetName": "Rua dos Fanqueiros",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Fanqueiros 14, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.708974,
+                "lon": -9.135125
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.70987,
+                    "lon": -9.13628
+                },
+                "btmRightPoint": {
+                    "lat": 38.70807,
+                    "lon": -9.13397
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70894,
+                        "lon": -9.13523
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "RJasg26ut7wWEvhL3SQvAA",
+            "score": 1.0119969845,
+            "info": "search:ta:620007000096718-PT",
+            "poi": {
+                "name": "Augusta Residence Serviced Apartments",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "124",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 124, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710575,
+                "lon": -9.137527
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71147,
+                    "lon": -9.13868
+                },
+                "btmRightPoint": {
+                    "lat": 38.70968,
+                    "lon": -9.13637
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71055,
+                        "lon": -9.13764
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "qcKbDbKQiO13NS1LvS8ILw",
+            "score": 1.01199615,
+            "info": "search:ta:620006000602788-PT",
+            "poi": {
+                "name": "Love More Bar",
+                "categorySet": [
+                    {
+                        "id": 9379004
+                    }
+                ],
+                "categories": [
+                    "bar",
+                    "nightlife"
+                ],
+                "classifications": [
+                    {
+                        "code": "NIGHTLIFE",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bar"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "nightlife"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "76",
+                "streetName": "Rua da Assunção",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-044",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Assunção 76, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711455,
+                "lon": -9.138562
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71235,
+                    "lon": -9.13971
+                },
+                "btmRightPoint": {
+                    "lat": 38.71056,
+                    "lon": -9.13741
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71157,
+                        "lon": -9.13849
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "RFNU0_B9HVISjmzLpRQROQ",
+            "score": 1.011995554,
+            "info": "search:ta:620007000096292-PT",
+            "poi": {
+                "name": "Nomad's Golden Collection Lisbon",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "6",
+                "streetName": "Rua do Crucifixo",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua do Crucifixo 6, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709526,
+                "lon": -9.138397
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71043,
+                    "lon": -9.13955
+                },
+                "btmRightPoint": {
+                    "lat": 38.70863,
+                    "lon": -9.13724
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70948,
+                        "lon": -9.13856
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "5h9WTgScoMnJ0xcGXQJXdA",
+            "score": 1.011995554,
+            "info": "search:ta:620007000118158-PT",
+            "poi": {
+                "name": "Espressolab Portugal",
+                "phone": "+351 915 675 679",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "www.espressolab.com",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "242",
+                "streetName": "Rua da Prata",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Prata 242, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712677,
+                "lon": -9.137501
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71358,
+                    "lon": -9.13865
+                },
+                "btmRightPoint": {
+                    "lat": 38.71178,
+                    "lon": -9.13635
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71265,
+                        "lon": -9.13761
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "jKwAw1gRsErRY782njBLlw",
+            "score": 1.0119953156,
+            "info": "search:ta:620007000062613-PT",
+            "poi": {
+                "name": "Gelateria La Romana - Lisboa",
+                "phone": "+351 21 593 0975",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "www.gelateriaromana.com/82-gelateria-lisboa.php",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "44",
+                "streetName": "Rua de São Nicolau",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de São Nicolau 44, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710503,
+                "lon": -9.137071
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.7114,
+                    "lon": -9.13822
+                },
+                "btmRightPoint": {
+                    "lat": 38.7096,
+                    "lon": -9.13592
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71041,
+                        "lon": -9.13708
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "Pg9DSsruhkaEn9I5Aepx2Q",
+            "score": 1.0119950771,
+            "info": "search:ta:620007000062576-PT",
+            "poi": {
+                "name": "Café Penta - Tostas E Bolos A Metro",
+                "phone": "+351 912 593 776",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "pentacafe.eatbu.com/?lang=en",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "115",
+                "streetName": "R. Áurea",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100 05",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "R. Áurea 115, 1100 05 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710222,
+                "lon": -9.138506
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71112,
+                    "lon": -9.13966
+                },
+                "btmRightPoint": {
+                    "lat": 38.70932,
+                    "lon": -9.13735
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71025,
+                        "lon": -9.1384
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "VL2UgJJGeUdeOOONVgdfjg",
+            "score": 1.0119941235,
+            "info": "search:ta:620006000362913-PT",
+            "poi": {
+                "name": "Jesus Caballero Photography",
+                "phone": "+351 963 440 750",
+                "categorySet": [
+                    {
+                        "id": 9379004
+                    }
+                ],
+                "url": "www.jesuscaballero.com",
+                "categories": [
+                    "bar",
+                    "nightlife"
+                ],
+                "classifications": [
+                    {
+                        "code": "NIGHTLIFE",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bar"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "nightlife"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "61",
+                "streetName": "Rua de Santa Justa",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de Santa Justa 61, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.7124,
+                "lon": -9.138598
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.7133,
+                    "lon": -9.13975
+                },
+                "btmRightPoint": {
+                    "lat": 38.7115,
+                    "lon": -9.13745
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71237,
+                        "lon": -9.13837
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "h3_19WecsS6wcnsqMMU0MQ",
+            "score": 1.0119937658,
+            "info": "search:ta:620007000119249-PT",
+            "poi": {
+                "name": "Pastelaria Ferrari",
+                "phone": "+351 965 579 868",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "189",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 189, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711416,
+                "lon": -9.137861
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71232,
+                    "lon": -9.13901
+                },
+                "btmRightPoint": {
+                    "lat": 38.71052,
+                    "lon": -9.13671
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71139,
+                        "lon": -9.13797
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "MizYE3Kxjodr2dc9TdfPYw",
+            "score": 1.0119930506,
+            "info": "search:ta:620007000062724-PT",
+            "poi": {
+                "name": "Solar Da Madalena",
+                "phone": "+351 961 654 862",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "www.pai.pt/paginas/487300-solar-da-madalena",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua Da Madalena N228",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100 31",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Da Madalena N228, 1100 31 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.713334,
+                "lon": -9.1366
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71423,
+                    "lon": -9.13775
+                },
+                "btmRightPoint": {
+                    "lat": 38.71243,
+                    "lon": -9.13545
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.7134,
+                        "lon": -9.1365
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "u_y6aHNkp3Q_wngDmc6odQ",
+            "score": 1.0119929314,
+            "info": "search:ta:620007000096403-PT",
+            "poi": {
+                "name": "Hermitage Castelo-Casa Saint Jorge",
+                "phone": "+351 937 440 798",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "hermitagecastelo.com/en/hotel/casa-saint-jorge",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "29",
+                "streetName": "Rua da Madalena",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Madalena 29, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709084,
+                "lon": -9.134854
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.70998,
+                    "lon": -9.13601
+                },
+                "btmRightPoint": {
+                    "lat": 38.70818,
+                    "lon": -9.1337
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70911,
+                        "lon": -9.13474
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "RT04mI7sA2weon5ddyMP3w",
+            "score": 1.0119923353,
+            "info": "search:ta:620006000600184-PT",
+            "poi": {
+                "name": "Pau De Canela",
+                "phone": "+351 21 805 9132",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Vitória",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Vitória, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.71085,
+                "lon": -9.138054
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71175,
+                    "lon": -9.13921
+                },
+                "btmRightPoint": {
+                    "lat": 38.70995,
+                    "lon": -9.1369
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71093,
+                        "lon": -9.13809
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "hn98MQdc8sXYzgGBnkJAxw",
+            "score": 1.0119918585,
+            "info": "search:ta:620007000060685-PT",
+            "poi": {
+                "name": "Welcome Home",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "153",
+                "streetName": "Rua da Conceição",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1150",
+                "extendedPostalCode": "1150-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Conceição 153, 1150 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709431,
+                "lon": -9.137548
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71033,
+                    "lon": -9.1387
+                },
+                "btmRightPoint": {
+                    "lat": 38.70853,
+                    "lon": -9.1364
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70952,
+                        "lon": -9.13758
+                    }
+                },
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.7094,
+                        "lon": -9.13807
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "RNtZIWdmzQjGm6pGv9uZVg",
+            "score": 1.0119912624,
+            "info": "search:ta:620006000086722-PT",
+            "poi": {
+                "name": "Santa Justa 77-Downtown Luxury Apartments",
+                "phone": "+351 937 716 875",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "santajusta77.com/hotel-overview.html",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "77",
+                "streetName": "Rua de Santa Justa",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de Santa Justa 77, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.712232,
+                "lon": -9.138517
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71313,
+                    "lon": -9.13967
+                },
+                "btmRightPoint": {
+                    "lat": 38.71133,
+                    "lon": -9.13736
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71232,
+                        "lon": -9.13856
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "8Q8PPSSRFedIKmZ57fLHsA",
+            "score": 1.0119911432,
+            "info": "search:ta:620007000096774-PT",
+            "poi": {
+                "name": "Lovelystay-Charming Douradoures I",
+                "phone": "+351 937 689 030",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "www.lovelystay.com",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "9",
+                "streetName": "Rua dos Douradores",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Douradores 9, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711756,
+                "lon": -9.136676
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71295,
+                    "lon": -9.13821
+                },
+                "btmRightPoint": {
+                    "lat": 38.71056,
+                    "lon": -9.13514
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71059,
+                        "lon": -9.13634
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "3aZfQT1sPScCEW-NbjV1yw",
+            "score": 1.0119911432,
+            "info": "search:ta:620007000096172-PT",
+            "poi": {
+                "name": "Prima Collection-São Nicolau 119 Luxury Apartments",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "119",
+                "streetName": "Rua de São Nicolau",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua de São Nicolau 119, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.70997,
+                "lon": -9.138436
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71087,
+                    "lon": -9.13959
+                },
+                "btmRightPoint": {
+                    "lat": 38.70907,
+                    "lon": -9.13728
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70999,
+                        "lon": -9.13877
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "_hOAeEOSzCNvKntSAI4G2w",
+            "score": 1.0119911432,
+            "info": "search:ta:620007000060753-PT",
+            "poi": {
+                "name": "Ferraria Xvi Flh Hotels Lisboa",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "flh-hotels.com/",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "84",
+                "streetName": "Rua dos Sapateiros",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Sapateiros 84, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710675,
+                "lon": -9.137956
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71157,
+                    "lon": -9.13911
+                },
+                "btmRightPoint": {
+                    "lat": 38.70978,
+                    "lon": -9.1368
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71064,
+                        "lon": -9.13812
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "KlXBCfMPSkjZddUiOJcrjA",
+            "score": 1.0119906664,
+            "info": "search:ta:620007000084881-PT",
+            "poi": {
+                "name": "Bonbon Cha",
+                "phone": "+351 919 247 247",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "www.bonbonchaportugal.com",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "82",
+                "streetName": "R. Da Assunção",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-619",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "R. Da Assunção 82, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711622,
+                "lon": -9.138649
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71252,
+                    "lon": -9.1398
+                },
+                "btmRightPoint": {
+                    "lat": 38.71072,
+                    "lon": -9.1375
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71154,
+                        "lon": -9.13861
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "3QxJ-kdGOGxhdUkPsYp56A",
+            "score": 1.011990428,
+            "info": "search:ta:620006000509326-PT",
+            "poi": {
+                "name": "Prata Guest House",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rua da Prata",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Prata, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709939,
+                "lon": -9.136406
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71084,
+                    "lon": -9.13756
+                },
+                "btmRightPoint": {
+                    "lat": 38.70904,
+                    "lon": -9.13525
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.70991,
+                        "lon": -9.13653
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "y087ahSyDYkKSo8LEJdFKw",
+            "score": 1.0119897127,
+            "info": "search:ta:620006000000251-PT",
+            "poi": {
+                "name": "Confeitaria Nacional",
+                "phone": "+351 21 346 1720",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "confeitarianacional.com/",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "18A",
+                "streetName": "Praça Da Figueira",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Praça Da Figueira 18A, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.713198,
+                "lon": -9.137939
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.7141,
+                    "lon": -9.13909
+                },
+                "btmRightPoint": {
+                    "lat": 38.7123,
+                    "lon": -9.13679
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71328,
+                        "lon": -9.13785
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "FLvVBJj68xUiA7EyFOAj2Q",
+            "score": 1.0119894743,
+            "info": "search:ta:620007000115839-PT",
+            "poi": {
+                "name": "Lisbon By Beetle",
+                "categorySet": [
+                    {
+                        "id": 9379004
+                    }
+                ],
+                "url": "www.lisbonbybeetle.com",
+                "categories": [
+                    "bar",
+                    "nightlife"
+                ],
+                "classifications": [
+                    {
+                        "code": "NIGHTLIFE",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bar"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "nightlife"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "16",
+                "streetName": "Rua dos Douradores",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1150",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Douradores 16, 1150 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710143,
+                "lon": -9.13604
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71104,
+                    "lon": -9.13719
+                },
+                "btmRightPoint": {
+                    "lat": 38.70924,
+                    "lon": -9.13489
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71011,
+                        "lon": -9.13615
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "-MKnfestlM00BXExIzDHrw",
+            "score": 1.0119893551,
+            "info": "search:ta:620007000081090-PT",
+            "poi": {
+                "name": "Madalena Orquídea Living",
+                "phone": "+351 910 191 216",
+                "categorySet": [
+                    {
+                        "id": 7314002
+                    }
+                ],
+                "url": "www.madalena.orquidealiving.com/ing/",
+                "categories": [
+                    "bed breakfast guest houses",
+                    "hotel/motel"
+                ],
+                "classifications": [
+                    {
+                        "code": "HOTEL_MOTEL",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "hotel/motel"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bed breakfast guest houses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "97",
+                "streetName": "Rua da Madalena",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua da Madalena 97, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.710422,
+                "lon": -9.13542
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71132,
+                    "lon": -9.13657
+                },
+                "btmRightPoint": {
+                    "lat": 38.70952,
+                    "lon": -9.13427
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71045,
+                        "lon": -9.13531
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "79rDALDpze1McC4uvFmgjg",
+            "score": 1.0119892359,
+            "info": "search:ta:620007000116304-PT",
+            "poi": {
+                "name": "The Coffee",
+                "brands": [
+                    {
+                        "name": "The Coffee"
+                    }
+                ],
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "url": "thecoffee.jp/shortcut/portugal/lisboa/the-coffee-douradores",
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "96",
+                "streetName": "Rua dos Douradores",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua dos Douradores 96, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711399,
+                "lon": -9.136534
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.7123,
+                    "lon": -9.13769
+                },
+                "btmRightPoint": {
+                    "lat": 38.7105,
+                    "lon": -9.13538
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71134,
+                        "lon": -9.13663
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "JrOcHqGrEGy_FHgg58Orxg",
+            "score": 1.0119892359,
+            "info": "search:ta:620006000438043-PT",
+            "poi": {
+                "name": "A Nata De Lisboa",
+                "phone": "+351 21 346 1221",
+                "categorySet": [
+                    {
+                        "id": 9376002
+                    }
+                ],
+                "categories": [
+                    "café",
+                    "café/pub"
+                ],
+                "classifications": [
+                    {
+                        "code": "CAFE_PUB",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café/pub"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "café"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "222",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1100",
+                "extendedPostalCode": "1100-125",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 222, 1100 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.711856,
+                "lon": -9.138283
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71276,
+                    "lon": -9.13944
+                },
+                "btmRightPoint": {
+                    "lat": 38.71096,
+                    "lon": -9.13713
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.7119,
+                        "lon": -9.13818
+                    }
+                }
+            ]
+        }
+    ]
+}
