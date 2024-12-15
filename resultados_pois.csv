@@ -1,44 +1,44 @@
-poi_name;poi_phone;poi_address.streetName;poi_address.municipalitySubdivision;poi_address.postalCode;poi_freeformAddress;poi_position_lat;poi_position_lon;poi_categories
-A Nata De Lisboa;+351 21 346 1221;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 222, 1100 Lisboa;38.711856;-9.138283;café, café/pub
-A Padaria Portuguesa;+351 961 828 041;Rua da Prata;Santa Maria Maior;1100;Rua da Prata 134, 1100 Lisboa;38.710844;-9.136776;food drinks: bakers, shop
-Alice Gelato Da Meraviglie;+351 918 464 383;Rua da Madalena;Santa Maria Maior;1100;Rua da Madalena 69, 1100 Lisboa;38.709891;-9.135217;café, café/pub
-Amo Brewery;;Rua Augusta;Santa Maria Maior;1150;Rua Augusta 53, 1150 Lisboa;38.709409;-9.137314;pub food, restaurant
-Benedita Bakery & Breakfast;+351 929 442 959;Rua da Conceição;Santa Maria Maior;1100;Rua da Conceição, 1100 Lisboa;38.709954;-9.136206;food drinks: bakers, shop
-"Benedita Bakery &Amp; Breakfast";+351 929 442 959;Rua da Conceição;Santa Maria Maior;1100;Rua da Conceição, 1100 Lisboa;38.709948;-9.136229;café, café/pub
-Bizzarro;;Rua de São Julião;Santa Maria Maior;1149;Rua de São Julião, 1149 Lisboa;38.709645;-9.135806;café, café/pub
-Bonbon Cha;+351 919 247 247;R. Da Assunção;Santa Maria Maior;1100;R. Da Assunção 82, 1100 Lisboa;38.711622;-9.138649;café, café/pub
-Bubble Time Baixa Chiado;+351 21 886 0559;Rua Da Prata N160;Santa Maria Maior;1100;Rua Da Prata N160, 1100 Lisboa;38.711423;-9.136998;café, café/pub
-Café Penta - Tostas E Bolos A Metro;+351 912 593 776;R. Áurea;Santa Maria Maior;1100 05;R. Áurea 115, 1100 05 Lisboa;38.710222;-9.138506;café, café/pub
-Casa Brasileira;+351 21 346 9713;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 251, 1100 Lisboa;38.712589;-9.138571;food drinks: bakers, shop
-Casa Chinesa Pastelaria Restaurante;+351 21 342 3680;Rua Áurea;Santa Maria Maior;1100;Rua Áurea, 1100 Lisboa (1100-066);38.712567;-9.139167;café, café/pub
-Chez Croissant;;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 41, 1100 Lisboa;38.709293;-9.137264;food drinks: bakers, shop
-Coffe House;;Rua dos Fanqueiros;Santa Maria Maior;1100;Rua dos Fanqueiros 167, 1100 Lisboa;38.711593;-9.136433;café, café/pub
-Confeitaria Nacional;+351 21 346 1720;Praça Da Figueira;Santa Maria Maior;1100;Praça Da Figueira 18A, 1100 Lisboa;38.713198;-9.137939;café, café/pub
-Confeitaria Nacional;;Rua da Prata;Santa Maria Maior;1100;Rua da Prata 280, 1100 Lisboa;38.713192;-9.137937;food drinks: bakers, shop
-Copenhagen Coffee Lab;;Rua dos Douradores;Santa Maria Maior;1100;Rua dos Douradores, 1100 Lisboa;38.711541;-9.136832;café, café/pub
-Espressolab Portugal;+351 915 675 679;Rua da Prata;Santa Maria Maior;1100;Rua da Prata 242, 1100 Lisboa;38.712677;-9.137501;café, café/pub
-Ferrary;+351 965 579 868;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 189, 1100 Lisboa;38.711449;-9.138187;food drinks: bakers, shop
-Fragoleto;+351 21 347 9472;Rua da Prata;Santa Maria Maior;1100;Rua da Prata, 1100 Lisboa;38.709603;-9.136527;café, café/pub
-Gelateria La Romana - Lisboa;+351 21 593 0975;Rua de São Nicolau;Santa Maria Maior;1100;Rua de São Nicolau 44, 1100 Lisboa;38.710503;-9.137071;café, café/pub
-Gelato Therapy;+351 21 886 0831;Rua da Madalena;Santa Maria Maior;1100;Rua da Madalena 83, 1100 Lisboa;38.709992;-9.13524;café, café/pub
-Granier;;Rua da Assunção;Santa Maria Maior;1100;Rua da Assunção, 1100 Lisboa (1100-043);38.71159;-9.138779;food drinks: bakers, shop
-Honua Lisbon Food & Drinks;+351 21 886 1079;Rua dos Fanqueiros;Santa Maria Maior;1100;Rua dos Fanqueiros 14, 1100 Lisboa;38.708974;-9.135125;café, café/pub
-Jesus Caballero Photography;+351 963 440 750;Rua de Santa Justa;Santa Maria Maior;1100;Rua de Santa Justa 61, 1100 Lisboa;38.7124;-9.138598;bar, nightlife
-La Chinesa;;Rua dos Sapateiros;Santa Maria Maior;1100;Rua dos Sapateiros 215, 1100 Lisboa;38.712482;-9.138969;bar, nightlife
-Lisbon By Beetle;;Rua dos Douradores;Santa Maria Maior;1150;Rua dos Douradores 16, 1150 Lisboa;38.710143;-9.13604;bar, nightlife
-Love More Bar;;Rua da Assunção;Santa Maria Maior;1100;Rua da Assunção 76, 1100 Lisboa;38.711455;-9.138562;bar, nightlife
-Manteigaria;+351 21 347 0631;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 195, 1100 Lisboa;38.711482;-9.138131;food drinks: bakers, shop
-Myiced Baixa Pombalina;+351 919 382 494;Rua da Assunção;Santa Maria Maior;1100;Rua da Assunção, 1100 Lisboa (1100-044);38.711878;-9.137606;café, café/pub
-Nat'Elier;+351 21 346 2470;Rua de Santa Justa;Santa Maria Maior;1100;Rua de Santa Justa 87, 1100 Lisboa;38.712149;-9.138834;food drinks: bakers, shop
-Nataria Nacional;+351 21 018 7125;Rua Áurea;Santa Maria Maior;1100;Rua Áurea, 1100 Lisboa (1100-062);38.71222;-9.139297;café, café/pub
-Pastelaria Cafouro;+351 21 342 1028;Rua Áurea;Santa Maria Maior;1100;Rua Áurea, 1100 Lisboa (1100-061);38.711046;-9.138857;food drinks: bakers, shop
-Pastelaria Ferrari;+351 965 579 868;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 189, 1100 Lisboa;38.711416;-9.137861;café, café/pub
-Pastelaria Restinga;+351 21 322 3801;Rua da Prata;Santa Maria Maior;1100;Rua da Prata 233, 1100 Lisboa;38.71231;-9.137355;food drinks: bakers, shop
-Pau De Canela;+351 21 805 9132;Rua da Vitória;Santa Maria Maior;1100;Rua da Vitória, 1100 Lisboa;38.71085;-9.138054;café, café/pub
-Paul - Rua Augusta;+351 21 347 0200;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 142, 1100 Lisboa;38.710817;-9.13762;food drinks: bakers, shop
-Portologia Lisboa, La Maison Des Porto;+351 21 017 9313;Rua de São Julião;Santa Maria Maior;1100;Rua de São Julião, 1100 Lisboa;38.70969;-9.135253;bar, nightlife
-Royal Vessel Bar;;Rua Augusta;Santa Maria Maior;1150;Rua Augusta 23, 1150 Lisboa;38.708963;-9.137133;pub food, restaurant
-Solar Da Madalena;+351 961 654 862;Rua Da Madalena N228;Santa Maria Maior;1100 31;Rua Da Madalena N228, 1100 31 Lisboa;38.713334;-9.1366;café, café/pub
-Starbucks Santa Justa;+351 937 000 000;Rua de Santa Justa;Santa Maria Maior;1100;Rua de Santa Justa 79, 1100 Lisboa;38.712209;-9.138603;café, café/pub
-The Coffee;;Rua dos Douradores;Santa Maria Maior;1100;Rua dos Douradores 96, 1100 Lisboa;38.711399;-9.136534;café, café/pub
-Wonderland Cocktail Bar;+351 916 739 466;Rua de Santa Justa;Santa Maria Maior;1100;Rua de Santa Justa 98, 1100 Lisboa;38.712214;-9.139302;bar, nightlife
+name;phone;address.streetName;address.municipalitySubdivision;address.postalCode;freeformAddress;position_lat;position_lon;categoryset;categories
+A Nata De Lisboa;+351 21 346 1221;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 222, 1100 Lisboa;38.711856;-9.138283;9376002;café, café/pub
+A Padaria Portuguesa;+351 961 828 041;Rua da Prata;Santa Maria Maior;1100;Rua da Prata 134, 1100 Lisboa;38.710844;-9.136776;9361018;food drinks: bakers, shop
+Alice Gelato Da Meraviglie;+351 918 464 383;Rua da Madalena;Santa Maria Maior;1100;Rua da Madalena 69, 1100 Lisboa;38.709891;-9.135217;9376002;café, café/pub
+Amo Brewery;;Rua Augusta;Santa Maria Maior;1150;Rua Augusta 53, 1150 Lisboa;38.709409;-9.137314;7315039;pub food, restaurant
+Benedita Bakery & Breakfast;+351 929 442 959;Rua da Conceição;Santa Maria Maior;1100;Rua da Conceição, 1100 Lisboa;38.709954;-9.136206;9361018;food drinks: bakers, shop
+"Benedita Bakery &Amp; Breakfast";+351 929 442 959;Rua da Conceição;Santa Maria Maior;1100;Rua da Conceição, 1100 Lisboa;38.709948;-9.136229;9376002;café, café/pub
+Bizzarro;;Rua de São Julião;Santa Maria Maior;1149;Rua de São Julião, 1149 Lisboa;38.709645;-9.135806;9376002;café, café/pub
+Bonbon Cha;+351 919 247 247;R. Da Assunção;Santa Maria Maior;1100;R. Da Assunção 82, 1100 Lisboa;38.711622;-9.138649;9376002;café, café/pub
+Bubble Time Baixa Chiado;+351 21 886 0559;Rua Da Prata N160;Santa Maria Maior;1100;Rua Da Prata N160, 1100 Lisboa;38.711423;-9.136998;9376002;café, café/pub
+Café Penta - Tostas E Bolos A Metro;+351 912 593 776;R. Áurea;Santa Maria Maior;1100 05;R. Áurea 115, 1100 05 Lisboa;38.710222;-9.138506;9376002;café, café/pub
+Casa Brasileira;+351 21 346 9713;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 251, 1100 Lisboa;38.712589;-9.138571;9361018;food drinks: bakers, shop
+Casa Chinesa Pastelaria Restaurante;+351 21 342 3680;Rua Áurea;Santa Maria Maior;1100;Rua Áurea, 1100 Lisboa (1100-066);38.712567;-9.139167;9376002;café, café/pub
+Chez Croissant;;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 41, 1100 Lisboa;38.709293;-9.137264;9361018;food drinks: bakers, shop
+Coffe House;;Rua dos Fanqueiros;Santa Maria Maior;1100;Rua dos Fanqueiros 167, 1100 Lisboa;38.711593;-9.136433;9376002;café, café/pub
+Confeitaria Nacional;+351 21 346 1720;Praça Da Figueira;Santa Maria Maior;1100;Praça Da Figueira 18A, 1100 Lisboa;38.713198;-9.137939;9376002;café, café/pub
+Confeitaria Nacional;;Rua da Prata;Santa Maria Maior;1100;Rua da Prata 280, 1100 Lisboa;38.713192;-9.137937;9361018;food drinks: bakers, shop
+Copenhagen Coffee Lab;;Rua dos Douradores;Santa Maria Maior;1100;Rua dos Douradores, 1100 Lisboa;38.711541;-9.136832;9376002;café, café/pub
+Espressolab Portugal;+351 915 675 679;Rua da Prata;Santa Maria Maior;1100;Rua da Prata 242, 1100 Lisboa;38.712677;-9.137501;9376002;café, café/pub
+Ferrary;+351 965 579 868;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 189, 1100 Lisboa;38.711449;-9.138187;9361018;food drinks: bakers, shop
+Fragoleto;+351 21 347 9472;Rua da Prata;Santa Maria Maior;1100;Rua da Prata, 1100 Lisboa;38.709603;-9.136527;9376002;café, café/pub
+Gelateria La Romana - Lisboa;+351 21 593 0975;Rua de São Nicolau;Santa Maria Maior;1100;Rua de São Nicolau 44, 1100 Lisboa;38.710503;-9.137071;9376002;café, café/pub
+Gelato Therapy;+351 21 886 0831;Rua da Madalena;Santa Maria Maior;1100;Rua da Madalena 83, 1100 Lisboa;38.709992;-9.13524;9376002;café, café/pub
+Granier;;Rua da Assunção;Santa Maria Maior;1100;Rua da Assunção, 1100 Lisboa (1100-043);38.71159;-9.138779;9361018;food drinks: bakers, shop
+Honua Lisbon Food & Drinks;+351 21 886 1079;Rua dos Fanqueiros;Santa Maria Maior;1100;Rua dos Fanqueiros 14, 1100 Lisboa;38.708974;-9.135125;9376002;café, café/pub
+Jesus Caballero Photography;+351 963 440 750;Rua de Santa Justa;Santa Maria Maior;1100;Rua de Santa Justa 61, 1100 Lisboa;38.7124;-9.138598;9379004;bar, nightlife
+La Chinesa;;Rua dos Sapateiros;Santa Maria Maior;1100;Rua dos Sapateiros 215, 1100 Lisboa;38.712482;-9.138969;9379004;bar, nightlife
+Lisbon By Beetle;;Rua dos Douradores;Santa Maria Maior;1150;Rua dos Douradores 16, 1150 Lisboa;38.710143;-9.13604;9379004;bar, nightlife
+Love More Bar;;Rua da Assunção;Santa Maria Maior;1100;Rua da Assunção 76, 1100 Lisboa;38.711455;-9.138562;9379004;bar, nightlife
+Manteigaria;+351 21 347 0631;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 195, 1100 Lisboa;38.711482;-9.138131;9361018;food drinks: bakers, shop
+Myiced Baixa Pombalina;+351 919 382 494;Rua da Assunção;Santa Maria Maior;1100;Rua da Assunção, 1100 Lisboa (1100-044);38.711878;-9.137606;9376002;café, café/pub
+Nat'Elier;+351 21 346 2470;Rua de Santa Justa;Santa Maria Maior;1100;Rua de Santa Justa 87, 1100 Lisboa;38.712149;-9.138834;9361018;food drinks: bakers, shop
+Nataria Nacional;+351 21 018 7125;Rua Áurea;Santa Maria Maior;1100;Rua Áurea, 1100 Lisboa (1100-062);38.71222;-9.139297;9376002;café, café/pub
+Pastelaria Cafouro;+351 21 342 1028;Rua Áurea;Santa Maria Maior;1100;Rua Áurea, 1100 Lisboa (1100-061);38.711046;-9.138857;9361018;food drinks: bakers, shop
+Pastelaria Ferrari;+351 965 579 868;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 189, 1100 Lisboa;38.711416;-9.137861;9376002;café, café/pub
+Pastelaria Restinga;+351 21 322 3801;Rua da Prata;Santa Maria Maior;1100;Rua da Prata 233, 1100 Lisboa;38.71231;-9.137355;9361018;food drinks: bakers, shop
+Pau De Canela;+351 21 805 9132;Rua da Vitória;Santa Maria Maior;1100;Rua da Vitória, 1100 Lisboa;38.71085;-9.138054;9376002;café, café/pub
+Paul - Rua Augusta;+351 21 347 0200;Rua Augusta;Santa Maria Maior;1100;Rua Augusta 142, 1100 Lisboa;38.710817;-9.13762;9361018;food drinks: bakers, shop
+Portologia Lisboa, La Maison Des Porto;+351 21 017 9313;Rua de São Julião;Santa Maria Maior;1100;Rua de São Julião, 1100 Lisboa;38.70969;-9.135253;9379004;bar, nightlife
+Royal Vessel Bar;;Rua Augusta;Santa Maria Maior;1150;Rua Augusta 23, 1150 Lisboa;38.708963;-9.137133;7315039;pub food, restaurant
+Solar Da Madalena;+351 961 654 862;Rua Da Madalena N228;Santa Maria Maior;1100 31;Rua Da Madalena N228, 1100 31 Lisboa;38.713334;-9.1366;9376002;café, café/pub
+Starbucks Santa Justa;+351 937 000 000;Rua de Santa Justa;Santa Maria Maior;1100;Rua de Santa Justa 79, 1100 Lisboa;38.712209;-9.138603;9376002;café, café/pub
+The Coffee;;Rua dos Douradores;Santa Maria Maior;1100;Rua dos Douradores 96, 1100 Lisboa;38.711399;-9.136534;9376002;café, café/pub
+Wonderland Cocktail Bar;+351 916 739 466;Rua de Santa Justa;Santa Maria Maior;1100;Rua de Santa Justa 98, 1100 Lisboa;38.712214;-9.139302;9379004;bar, nightlife

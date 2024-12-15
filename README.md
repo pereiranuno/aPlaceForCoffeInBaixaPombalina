@@ -47,3 +47,16 @@ Este repositório contém um **notebook Python** que interage com uma API de pes
 Certifica-te de que tens o Python e as bibliotecas necessárias instaladas. Podes instalar as dependências através do `pip`:
 ```bash
 pip install requests pandas folium
+```
+
+### 2. Executar o Notebook
+Abre o ficheiro main.ipynb no Jupyter Notebook ou Google Colab.
+Atualiza os seguintes parâmetros no código:
+API_KEY: Insere a chave de acesso à API.
+url e params: Define os parâmetros necessários para a API Geometry Search.
+keywords e exclude_keywords: Define as palavras-chave de inclusão e exclusão para o filtro de categorias.
+Corre todas as células do notebook para executar o processamento e gerar os ficheiros de saída.
+
+### 3. Resultado
+O resultado principal será salvo em data/resultados_pois.csv, contendo informações sobre os pontos de interesse cumprindo os requisitos definidos. 
+Se a visualização geográfica estiver ativa, o mapa será gerado no notebook e pode ser exportado para um ficheiro HTML.
