@@ -14,8 +14,8 @@ Este repositório contém um **notebook Python** que interage com uma API de pes
   - Envia requisições à API para obter POIs com base em categorias e geometrias definidas.
 - **Processamento dos Resultados:**
   - Extração de informações relevantes, como nomes, endereços, categorias e coordenadas.~
-  - **Validação da qualidade dos dados recebidos:**
-  - Validação da qualidade da informação recebida e validação do conteudo com fonte suplmentar, ness ecaso motor de busca Google atrabés de Web Scrapping.
+- **Validação da qualidade dos dados recebidos:**
+  - Validação da qualidade da informação recebida e validação do conteudo com fonte suplmentar, nesse caso motor de busca Google atrabés de Web Scrapping.
 - **Exportação de Resultados:**
   - Os resultados são organizados em um `DataFrame` e salvos num ficheiro CSV para posterior análise.
 - **Visualização Geográfica:**
