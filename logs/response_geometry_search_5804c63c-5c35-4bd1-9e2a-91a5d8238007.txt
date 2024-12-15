@@ -1,0 +1,153 @@
+{
+    "summary": {
+        "query": "",
+        "queryType": "NON_NEAR",
+        "queryTime": 70,
+        "numResults": 2,
+        "offset": 0,
+        "totalResults": 2,
+        "fuzzyLevel": 1
+    },
+    "results": [
+        {
+            "type": "POI",
+            "id": "JJGEg0tjviLULpZlCooauA",
+            "score": 1.0119978189,
+            "info": "search:ta:620007000118038-PT",
+            "poi": {
+                "name": "Royal Vessel Bar",
+                "categorySet": [
+                    {
+                        "id": 7315039
+                    }
+                ],
+                "categories": [
+                    "pub food",
+                    "restaurant"
+                ],
+                "classifications": [
+                    {
+                        "code": "RESTAURANT",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "restaurant"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "pub food"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "23",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1150",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 23, 1150 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.708963,
+                "lon": -9.137133
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71219,
+                    "lon": -9.14127
+                },
+                "btmRightPoint": {
+                    "lat": 38.70574,
+                    "lon": -9.133
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71207,
+                        "lon": -9.13825
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "3suKguC4SasEG9knK8IofQ",
+            "score": 1.0119915009,
+            "info": "search:ta:620007000118094-PT",
+            "poi": {
+                "name": "Amo Brewery",
+                "categorySet": [
+                    {
+                        "id": 7315039
+                    }
+                ],
+                "categories": [
+                    "pub food",
+                    "restaurant"
+                ],
+                "classifications": [
+                    {
+                        "code": "RESTAURANT",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "restaurant"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "pub food"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "53",
+                "streetName": "Rua Augusta",
+                "municipalitySubdivision": "Santa Maria Maior",
+                "municipality": "Lisboa",
+                "countrySecondarySubdivision": "Lisboa",
+                "countrySubdivision": "Portugal Continental",
+                "postalCode": "1150",
+                "countryCode": "PT",
+                "country": "Portugal",
+                "countryCodeISO3": "PRT",
+                "freeformAddress": "Rua Augusta 53, 1150 Lisboa",
+                "localName": "Lisboa"
+            },
+            "position": {
+                "lat": 38.709409,
+                "lon": -9.137314
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 38.71217,
+                    "lon": -9.14085
+                },
+                "btmRightPoint": {
+                    "lat": 38.70665,
+                    "lon": -9.13378
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 38.71207,
+                        "lon": -9.13825
+                    }
+                }
+            ]
+        }
+    ]
+}
